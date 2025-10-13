@@ -3,7 +3,7 @@ import os, json, time, requests
 
 NOTION_TOKEN = os.getenv("NOTION_TOKEN")
 PAGE_ID = os.getenv("PAGE_ID")
-NOTION_VERSION = "2022-06-28"
+NOTION_VERSION = "2025-09-03"
 
 S = requests.Session()
 S.headers.update({
