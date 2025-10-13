@@ -24,7 +24,7 @@ jobs:
       - name: Export from Notion
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-          PAGE_ID: ${{ secrets.PAGE_ID || secret.NOTION_PAGE_ID }}
+          PAGE_ID: ${{ secrets.PAGE_ID }}
           NOTION_VERSION: "2025-09-03"
         run: python notion_export.py
 
