@@ -6083,17 +6083,17 @@
     }
   },
   {
-    "id": "28c044e9-65c9-8016-b5b4-f84d48a7f7ea",
-    "type": "paragraph",
+    "id": "28c044e9-65c9-8032-bf99-ff535d388a5b",
+    "type": "code",
     "raw": {
       "object": "block",
-      "id": "28c044e9-65c9-8016-b5b4-f84d48a7f7ea",
+      "id": "28c044e9-65c9-8032-bf99-ff535d388a5b",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
-      "created_time": "2025-10-14T05:47:00.000Z",
-      "last_edited_time": "2025-10-14T05:47:00.000Z",
+      "created_time": "2025-10-14T06:26:00.000Z",
+      "last_edited_time": "2025-10-14T06:28:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6105,13 +6105,14 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
+      "type": "code",
+      "code": {
+        "caption": [],
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,60,60,50,\"성좌P=2\"",
+              "content": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,60,60,50,\"성좌P=2\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,72,55,55,55,55,50,55,50,60,50,\"\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,68,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",55,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",50,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
               "link": null
             },
             "annotations": {
@@ -6122,137 +6123,11 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,60,60,50,\"성좌P=2\"",
+            "plain_text": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,60,60,50,\"성좌P=2\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,72,55,55,55,55,50,55,50,60,50,\"\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,68,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",55,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",50,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
             "href": null
           }
         ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "28c044e9-65c9-8052-b028-ebd8826c6753",
-    "type": "paragraph",
-    "raw": {
-      "object": "block",
-      "id": "28c044e9-65c9-8052-b028-ebd8826c6753",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-14T05:47:00.000Z",
-      "last_edited_time": "2025-10-14T05:47:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "lee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,72,55,55,55,55,50,55,50,60,50,\"\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,68,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",55,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",50,65,70,60,50,40,55,60,60,40,\"\"",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "lee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,72,55,55,55,55,50,55,50,60,50,\"\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,68,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",55,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",50,65,70,60,50,40,55,60,60,40,\"\"",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "28c044e9-65c9-80a8-b1d8-e956be1ce35e",
-    "type": "paragraph",
-    "raw": {
-      "object": "block",
-      "id": "28c044e9-65c9-80a8-b1d8-e956be1ce35e",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-14T05:47:00.000Z",
-      "last_edited_time": "2025-10-14T05:51:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "choi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "choi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "28c044e9-65c9-80c4-9213-d71d3449c821",
-    "type": "paragraph",
-    "raw": {
-      "object": "block",
-      "id": "28c044e9-65c9-80c4-9213-d71d3449c821",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-14T05:51:00.000Z",
-      "last_edited_time": "2025-10-14T05:51:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [],
-        "color": "default"
+        "language": "plain text"
       }
     }
   },
@@ -6482,17 +6357,17 @@
     }
   },
   {
-    "id": "28c044e9-65c9-8019-b472-ccadda808a44",
-    "type": "paragraph",
+    "id": "28c044e9-65c9-801c-be67-cd0fca5c50c9",
+    "type": "code",
     "raw": {
       "object": "block",
-      "id": "28c044e9-65c9-8019-b472-ccadda808a44",
+      "id": "28c044e9-65c9-801c-be67-cd0fca5c50c9",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
-      "created_time": "2025-10-14T05:52:00.000Z",
-      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "created_time": "2025-10-14T06:28:00.000Z",
+      "last_edited_time": "2025-10-14T06:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6504,8 +6379,9 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
+      "type": "code",
+      "code": {
+        "caption": [],
         "rich_text": [
           {
             "type": "text",
@@ -6525,22 +6401,22 @@
             "href": null
           }
         ],
-        "color": "default"
+        "language": "plain text"
       }
     }
   },
   {
-    "id": "28c044e9-65c9-80e7-922c-d31228c3310b",
+    "id": "28c044e9-65c9-8019-b472-ccadda808a44",
     "type": "paragraph",
     "raw": {
       "object": "block",
-      "id": "28c044e9-65c9-80e7-922c-d31228c3310b",
+      "id": "28c044e9-65c9-8019-b472-ccadda808a44",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T05:52:00.000Z",
-      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "last_edited_time": "2025-10-14T06:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6609,17 +6485,17 @@
     }
   },
   {
-    "id": "28c044e9-65c9-8097-87f5-f0f1b20caf22",
-    "type": "paragraph",
+    "id": "28c044e9-65c9-806f-b611-f20d07e9af1e",
+    "type": "code",
     "raw": {
       "object": "block",
-      "id": "28c044e9-65c9-8097-87f5-f0f1b20caf22",
+      "id": "28c044e9-65c9-806f-b611-f20d07e9af1e",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
-      "created_time": "2025-10-14T05:52:00.000Z",
-      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "created_time": "2025-10-14T06:29:00.000Z",
+      "last_edited_time": "2025-10-14T06:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6631,8 +6507,9 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
+      "type": "code",
+      "code": {
+        "caption": [],
         "rich_text": [
           {
             "type": "text",
@@ -6652,22 +6529,22 @@
             "href": null
           }
         ],
-        "color": "default"
+        "language": "plain text"
       }
     }
   },
   {
-    "id": "28c044e9-65c9-8092-b541-fd194225f6ae",
+    "id": "28c044e9-65c9-8097-87f5-f0f1b20caf22",
     "type": "paragraph",
     "raw": {
       "object": "block",
-      "id": "28c044e9-65c9-8092-b541-fd194225f6ae",
+      "id": "28c044e9-65c9-8097-87f5-f0f1b20caf22",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T05:52:00.000Z",
-      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "last_edited_time": "2025-10-14T06:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6736,17 +6613,17 @@
     }
   },
   {
-    "id": "28c044e9-65c9-80d8-9fce-cd5af29d05cd",
-    "type": "paragraph",
+    "id": "28c044e9-65c9-8098-933e-fc3cbd6ebfaa",
+    "type": "code",
     "raw": {
       "object": "block",
-      "id": "28c044e9-65c9-80d8-9fce-cd5af29d05cd",
+      "id": "28c044e9-65c9-8098-933e-fc3cbd6ebfaa",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
-      "created_time": "2025-10-14T05:53:00.000Z",
-      "last_edited_time": "2025-10-14T05:53:00.000Z",
+      "created_time": "2025-10-14T06:29:00.000Z",
+      "last_edited_time": "2025-10-14T06:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6758,8 +6635,9 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
+      "type": "code",
+      "code": {
+        "caption": [],
         "rich_text": [
           {
             "type": "text",
@@ -6779,22 +6657,22 @@
             "href": null
           }
         ],
-        "color": "default"
+        "language": "plain text"
       }
     }
   },
   {
-    "id": "28c044e9-65c9-8008-9baa-d744cc8d4174",
+    "id": "28c044e9-65c9-80d8-9fce-cd5af29d05cd",
     "type": "paragraph",
     "raw": {
       "object": "block",
-      "id": "28c044e9-65c9-8008-9baa-d744cc8d4174",
+      "id": "28c044e9-65c9-80d8-9fce-cd5af29d05cd",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T05:53:00.000Z",
-      "last_edited_time": "2025-10-14T05:53:00.000Z",
+      "last_edited_time": "2025-10-14T06:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
