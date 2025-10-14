@@ -834,7 +834,7 @@
             "block_id": "281044e9-65c9-8029-9242-f4421ffaf2d0"
           },
           "created_time": "2025-10-03T12:02:00.000Z",
-          "last_edited_time": "2025-10-03T15:31:00.000Z",
+          "last_edited_time": "2025-10-14T04:48:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -852,7 +852,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "호감도 시스템과 성좌 시스템 관리",
+                  "content": "자동으로 호감도 시스템과 성좌 시스템 관리",
                   "link": null
                 },
                 "annotations": {
@@ -863,7 +863,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "호감도 시스템과 성좌 시스템 관리",
+                "plain_text": "자동으로 호감도 시스템과 성좌 시스템 관리",
                 "href": null
               }
             ],
@@ -5709,6 +5709,571 @@
     }
   },
   {
+    "id": "28c044e9-65c9-80fd-a40a-daa069a0a0d2",
+    "type": "heading_3",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80fd-a40a-daa069a0a0d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "설명",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "설명",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80f4-94ec-c6f37872c8c1",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80f4-94ec-c6f37872c8c1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "role/specialty",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "role/specialty",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": 직업·특기 분리. (예: 직업=간호사 / 특기=의료·석궁)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 직업·특기 분리. (예: 직업=간호사 / 특기=의료·석궁)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-802b-946e-c57e3d49a289",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-802b-946e-c57e3d49a289",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "star_power",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "star_power",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": 성좌 능력, 초기엔 잠재 상태. (발현 시 업데이트)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 성좌 능력, 초기엔 잠재 상태. (발현 시 업데이트)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-809f-9df6-cf0b7faf0b2d",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-809f-9df6-cf0b7faf0b2d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "equipment",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "equipment",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": 현재 주요 장비.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 현재 주요 장비.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80a6-8d1a-de8c6ebd98bb",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80a6-8d1a-de8c6ebd98bb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "health_status",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "health_status",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": 정상 / 부상(다리) 등.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 정상 / 부상(다리) 등.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80ee-b355-fd56d2080f85",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80ee-b355-fd56d2080f85",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "affinity",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "affinity",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": 호감도 수치 기입 예정.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 호감도 수치 기입 예정.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80d8-962b-dfa390f6926d",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80d8-962b-dfa390f6926d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "스탯/기술",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "스탯/기술",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": 빈칸은 추후 채움. 지금은 기본 골격만.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 빈칸은 추후 채움. 지금은 기본 골격만.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80e2-aa71-f1dbcf65825c",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80e2-aa71-f1dbcf65825c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:19:00.000Z",
+      "last_edited_time": "2025-10-14T05:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "csv",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "csv",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80ad-883e-cd45251c6481",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80ad-883e-cd45251c6481",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:19:00.000Z",
+      "last_edited_time": "2025-10-14T05:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-805b-8f0f-c556c3f00dc1",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-805b-8f0f-c556c3f00dc1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:19:00.000Z",
+      "last_edited_time": "2025-10-14T05:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "id,name,gender,age,role,specialty,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,FirstAid,Medicine,Psychology,Brawl,Survival,Listen,Drive,Firearm,Bow,Persuade,SpotHidden,notes\njang-suin,장수인,F,29,회사원,리더/탐색,별의 시야,창·차량,\"정상\",,40,60,50,55,55,65,60,60,50,,,,,50,40,35,,,55,,\npark-jiyeon,박지연,F,27,간호사,의료·석궁,잠재 성좌능력,석궁,\"정상\",,45,60,55,60,55,60,55,70,50,65,50,40,30,20,35,25,,60,25,,\nkim-sangwoo,김상우,M,40대,기술자,건축·수리,잠재 성좌능력,망치·공구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\njung-taesik,정태식,M,30대,전직 군인,기계·발전기,잠재 성좌능력,권총,\"부상(다리)\",,,,,,,,,,,,,,,,,,,,,,\nlee-dohyun,이도현,M,20대,청년,경계·사격,잠재 성좌능력,총기,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchoi-sujeong,최수정,F,30대,구조 설계,공학 설계,잠재 성좌능력,도면·공구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nyoon-mikyung,윤미경,F,40대,주부,요리·가사,잠재 성좌능력,주방도구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\npark-chulho,박철호,M,50대,생존자,노동·운반,잠재 성좌능력,몽둥이,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchoi-youngja,최영자,F,60대,간호사,간호·위생,잠재 성좌능력,붕대·응급도구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nkim-sunyoung,김선영,F,40대,생존자,보조·생활기술,잠재 성좌능력,생활용품,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nmin-seo,민서,F,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchild1,아이1,?,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchild2,아이2,?,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "id,name,gender,age,role,specialty,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,FirstAid,Medicine,Psychology,Brawl,Survival,Listen,Drive,Firearm,Bow,Persuade,SpotHidden,notes\njang-suin,장수인,F,29,회사원,리더/탐색,별의 시야,창·차량,\"정상\",,40,60,50,55,55,65,60,60,50,,,,,50,40,35,,,55,,\npark-jiyeon,박지연,F,27,간호사,의료·석궁,잠재 성좌능력,석궁,\"정상\",,45,60,55,60,55,60,55,70,50,65,50,40,30,20,35,25,,60,25,,\nkim-sangwoo,김상우,M,40대,기술자,건축·수리,잠재 성좌능력,망치·공구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\njung-taesik,정태식,M,30대,전직 군인,기계·발전기,잠재 성좌능력,권총,\"부상(다리)\",,,,,,,,,,,,,,,,,,,,,,\nlee-dohyun,이도현,M,20대,청년,경계·사격,잠재 성좌능력,총기,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchoi-sujeong,최수정,F,30대,구조 설계,공학 설계,잠재 성좌능력,도면·공구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nyoon-mikyung,윤미경,F,40대,주부,요리·가사,잠재 성좌능력,주방도구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\npark-chulho,박철호,M,50대,생존자,노동·운반,잠재 성좌능력,몽둥이,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchoi-youngja,최영자,F,60대,간호사,간호·위생,잠재 성좌능력,붕대·응급도구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nkim-sunyoung,김선영,F,40대,생존자,보조·생활기술,잠재 성좌능력,생활용품,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nmin-seo,민서,F,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchild1,아이1,?,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchild2,아이2,?,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
     "id": "281044e9-65c9-809e-916f-cbe762ca7cea",
     "type": "table",
     "raw": {
@@ -5719,7 +6284,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-14T02:30:00.000Z",
+      "last_edited_time": "2025-10-14T04:54:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -8982,7 +9547,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-14T03:24:00.000Z",
+      "last_edited_time": "2025-10-14T04:38:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -9081,7 +9646,7 @@
             "block_id": "281044e9-65c9-80f3-ba1b-f62b3a8a67f7"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T03:13:00.000Z",
+          "last_edited_time": "2025-10-14T04:37:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -9119,7 +9684,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "약 15.62일분 (현재 배급기준)",
+                    "content": "약 14.62일분 (현재 배급기준)",
                     "link": null
                   },
                   "annotations": {
@@ -9130,7 +9695,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "약 15.62일분 (현재 배급기준)",
+                  "plain_text": "약 14.62일분 (현재 배급기준)",
                   "href": null
                 }
               ]
@@ -9217,7 +9782,7 @@
             "block_id": "281044e9-65c9-80f3-ba1b-f62b3a8a67f7"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T03:22:00.000Z",
+          "last_edited_time": "2025-10-14T04:37:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -9255,7 +9820,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "119.45L (8일치) - 축전지로 에너지 효율↑",
+                    "content": "119.45L (7일치) - 축전지로 에너지 효율↑",
                     "link": null
                   },
                   "annotations": {
@@ -9266,7 +9831,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "119.45L (8일치) - 축전지로 에너지 효율↑",
+                  "plain_text": "119.45L (7일치) - 축전지로 에너지 효율↑",
                   "href": null
                 }
               ]
@@ -9353,7 +9918,7 @@
             "block_id": "281044e9-65c9-80f3-ba1b-f62b3a8a67f7"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:40:00.000Z",
+          "last_edited_time": "2025-10-14T04:37:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -9391,7 +9956,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "45L",
+                    "content": "42L",
                     "link": null
                   },
                   "annotations": {
@@ -9402,7 +9967,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "45L",
+                  "plain_text": "42L",
                   "href": null
                 }
               ]
@@ -9471,6 +10036,74 @@
                     "color": "default"
                   },
                   "plain_text": "안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(25일분)\n- 특수 의약품(15~20일분)\n- 의약 소모품 2~3주분",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "28c044e9-65c9-80c1-8b3f-d82ef426154f",
+        "type": "table_row",
+        "raw": {
+          "object": "block",
+          "id": "28c044e9-65c9-80c1-8b3f-d82ef426154f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "281044e9-65c9-80f3-ba1b-f62b3a8a67f7"
+          },
+          "created_time": "2025-10-14T04:37:00.000Z",
+          "last_edited_time": "2025-10-14T04:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "자재",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "자재",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "파이프, 판자, 실리콘 2통, 방수 패킹제 2통, 전선 여분, 절연 테이프 1롤, 공구 세트",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "파이프, 판자, 실리콘 2통, 방수 패킹제 2통, 전선 여분, 절연 테이프 1롤, 공구 세트",
                   "href": null
                 }
               ]
@@ -10462,6 +11095,411 @@
                   "href": null
                 }
               ]
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "28c044e9-65c9-80f5-ba73-f5716fcf9942",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80f5-ba73-f5716fcf9942",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:38:00.000Z",
+      "last_edited_time": "2025-10-14T04:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "작물 재배 현황",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "작물 재배 현황",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-801a-be40-c690431c450a",
+    "type": "table",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-801a-be40-c690431c450a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:38:00.000Z",
+      "last_edited_time": "2025-10-14T04:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 6,
+        "has_column_header": false,
+        "has_row_header": false
+      }
+    },
+    "children": [
+      {
+        "id": "28c044e9-65c9-8052-9734-ff9d7ad33862",
+        "type": "table_row",
+        "raw": {
+          "object": "block",
+          "id": "28c044e9-65c9-8052-9734-ff9d7ad33862",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-801a-be40-c690431c450a"
+          },
+          "created_time": "2025-10-14T04:38:00.000Z",
+          "last_edited_time": "2025-10-14T04:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "종류",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "종류",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "재배 시작 일차",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "재배 시작 일차",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "남은 분량",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "남은 분량",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "1회 재배 분량",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "1회 재배 분량",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "재배기간",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "재배기간",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "수확 당 식량",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "수확 당 식량",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "28c044e9-65c9-8060-972b-d65b73cba0df",
+        "type": "table_row",
+        "raw": {
+          "object": "block",
+          "id": "28c044e9-65c9-8060-972b-d65b73cba0df",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-801a-be40-c690431c450a"
+          },
+          "created_time": "2025-10-14T04:38:00.000Z",
+          "last_edited_time": "2025-10-14T04:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "콩나물",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "콩나물",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "11일차",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "11일차",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "19kg",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "19kg",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "1kg",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "1kg",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "5일(이후 매일)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "5일(이후 매일)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "0.2일분",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "0.2일분",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "28c044e9-65c9-80ac-bb8e-cf6a13a0695e",
+        "type": "table_row",
+        "raw": {
+          "object": "block",
+          "id": "28c044e9-65c9-80ac-bb8e-cf6a13a0695e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-801a-be40-c690431c450a"
+          },
+          "created_time": "2025-10-14T04:38:00.000Z",
+          "last_edited_time": "2025-10-14T04:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
             ]
           }
         }
@@ -18533,6 +19571,710 @@
             "href": null
           }
         ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8055-8d83-c1142a20ea17",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8055-8d83-c1142a20ea17",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:33:00.000Z",
+      "last_edited_time": "2025-10-14T04:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "진행:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "진행:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80a9-9ca5-d2e7dd255487",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80a9-9ca5-d2e7dd255487",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "폐공장 탐색",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "폐공장 탐색",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " → 생존자 무리와 조우, 교섭 성공. 자재 확보, 식량 한 끼 제공.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " → 생존자 무리와 조우, 교섭 성공. 자재 확보, 식량 한 끼 제공.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-802b-a933-c3dcb4e25596",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-802b-a933-c3dcb4e25596",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "철물점 탐색",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "철물점 탐색",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " → 실리콘, 방수 패킹제, 전선, 절연 테이프, 공구 세트 확보.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " → 실리콘, 방수 패킹제, 전선, 절연 테이프, 공구 세트 확보.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-801d-a120-fa79d520757c",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-801d-a120-fa79d520757c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "들개 사냥",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "들개 사냥",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " → 고기 3마리 획득 → 훈제 처리, 식량 +1.2일분.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " → 고기 3마리 획득 → 훈제 처리, 식량 +1.2일분.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80e8-9b5e-e36ed74cda8d",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80e8-9b5e-e36ed74cda8d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지하 수리",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지하 수리",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " → 배관·전선 보수 성공, 분배판 임시 수리.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " → 배관·전선 보수 성공, 분배판 임시 수리.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8012-8c8f-e73cb53cb49b",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8012-8c8f-e73cb53cb49b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "옥상 보수",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "옥상 보수",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " → 위험 구간만 우선 보수, 나머지 내일로 연기.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " → 위험 구간만 우선 보수, 나머지 내일로 연기.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80ca-8403-e937b6bb9e10",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80ca-8403-e937b6bb9e10",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "밤 경계",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "밤 경계",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " → 멀리서 불빛(다른 생존자 추정) 발견. 즉각 위협 아님.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " → 멀리서 불빛(다른 생존자 추정) 발견. 즉각 위협 아님.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8058-9f82-dc85b1030c51",
+    "type": "bulleted_list_item",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8058-9f82-dc85b1030c51",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "성좌 교감",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "성좌 교감",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " → 성좌는 수인의 기억을 통해 현실과 교감이 가능한 것.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " → 성좌는 수인의 기억을 통해 현실과 교감이 가능한 것.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8042-b605-f4746f6be6f4",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8042-b605-f4746f6be6f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "성과:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "성과:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8098-8eaa-c87f7a7bb86b",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8098-8eaa-c87f7a7bb86b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지하 기계실 수리 거의 완료",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지하 기계실 수리 거의 완료",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8085-ad7b-cd7793283d05",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8085-ad7b-cd7793283d05",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:34:00.000Z",
+      "last_edited_time": "2025-10-14T04:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "옥상 보수 40% 완료",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "옥상 보수 40% 완료",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8082-9004-cd6e55ac5b18",
+    "type": "divider",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8082-9004-cd6e55ac5b18",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:48:00.000Z",
+      "last_edited_time": "2025-10-14T04:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80fb-8b16-ebae28839abb",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80fb-8b16-ebae28839abb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T04:48:00.000Z",
+      "last_edited_time": "2025-10-14T04:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
         "color": "default"
       }
     }
