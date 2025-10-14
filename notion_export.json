@@ -49,6 +49,103 @@
     }
   },
   {
+    "id": "28c044e9-65c9-80fc-9228-e83547f1a89c",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80fc-9228-e83547f1a89c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T11:42:00.000Z",
+      "last_edited_time": "2025-10-14T11:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "**아래 블록을 항상 기억할 것**",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "**아래 블록을 항상 기억할 것**",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80ee-ba98-fbe0e2895034",
+    "type": "code",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80ee-ba98-fbe0e2895034",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T11:42:00.000Z",
+      "last_edited_time": "2025-10-14T11:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# TRPG Simulation Rules v1\nlast_updated: \"2025-10-14\"\n\nsimulation_rules:\n  narration:\n    - 플레이어 편의 봐주지 않음\n    - 선택지 제시 금지 → 자연스럽고 개연성 있는 전개\n    - 판정 흐름: 행동 선언 → 주사위 판정 → 결과 반영\n    - 사건과 위기는 마스터가 능동적으로 발생시킴\n\n  affection_system:\n    - 기준점: 장수인\n    - 캐릭터마다 호감도 수치 존재\n    - 변화 원칙:\n      * 작은 말/행동에 즉시 변하지 않음\n      * 사건, 갈등, 협력 등 맥락에서 자연스럽게 ± 변화\n    - 효과:\n      * 호감도↑ → 태도 호의적, 협조적\n      * 호감도↓ → 경계, 충돌, 갈등 발생\n      * 장기적으로 관계·신뢰도에 큰 차이 발생\n\n  star_system:\n    - 성좌 포인트(SP):\n      * 사건/선택/고난에서 자연스럽게 누적\n      * 단순 행동마다 주지 않음\n    - 임계치 & 발현:\n      * SP ≥ 10 → 성좌 능력 발현 (약한)\n      * SP ≥ 20 → 성좌 권능 강화 (중간)\n      * SP ≥ 40 → 성좌 시련/강대한 권능\n    - 주기:\n      * 7일마다 \"성좌의 시련\" 발생 (자동 이벤트)\n    - 효과:\n      * SP 많을수록 권능 강해짐\n      * 성좌 태도 변화: 거리감 → 관심 → 집착/동행\n\n  integration:\n    - 마스터는 사건·위기·전투·교섭 상황에서\n      * 자연스럽게 호감도, SP 변화를 반영\n      * SP 발현/호감도 변화가 플레이 감정선과 드라마틱하게 맞아떨어지게 연출\n    - 플레이어는 직접 지시할 필요 없음\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# TRPG Simulation Rules v1\nlast_updated: \"2025-10-14\"\n\nsimulation_rules:\n  narration:\n    - 플레이어 편의 봐주지 않음\n    - 선택지 제시 금지 → 자연스럽고 개연성 있는 전개\n    - 판정 흐름: 행동 선언 → 주사위 판정 → 결과 반영\n    - 사건과 위기는 마스터가 능동적으로 발생시킴\n\n  affection_system:\n    - 기준점: 장수인\n    - 캐릭터마다 호감도 수치 존재\n    - 변화 원칙:\n      * 작은 말/행동에 즉시 변하지 않음\n      * 사건, 갈등, 협력 등 맥락에서 자연스럽게 ± 변화\n    - 효과:\n      * 호감도↑ → 태도 호의적, 협조적\n      * 호감도↓ → 경계, 충돌, 갈등 발생\n      * 장기적으로 관계·신뢰도에 큰 차이 발생\n\n  star_system:\n    - 성좌 포인트(SP):\n      * 사건/선택/고난에서 자연스럽게 누적\n      * 단순 행동마다 주지 않음\n    - 임계치 & 발현:\n      * SP ≥ 10 → 성좌 능력 발현 (약한)\n      * SP ≥ 20 → 성좌 권능 강화 (중간)\n      * SP ≥ 40 → 성좌 시련/강대한 권능\n    - 주기:\n      * 7일마다 \"성좌의 시련\" 발생 (자동 이벤트)\n    - 효과:\n      * SP 많을수록 권능 강해짐\n      * 성좌 태도 변화: 거리감 → 관심 → 집착/동행\n\n  integration:\n    - 마스터는 사건·위기·전투·교섭 상황에서\n      * 자연스럽게 호감도, SP 변화를 반영\n      * SP 발현/호감도 변화가 플레이 감정선과 드라마틱하게 맞아떨어지게 연출\n    - 플레이어는 직접 지시할 필요 없음\n",
+            "href": null
+          }
+        ],
+        "language": "plain text"
+      }
+    }
+  },
+  {
     "id": "281044e9-65c9-804b-aec2-e0eece5c1ac5",
     "type": "heading_2",
     "raw": {
