@@ -84,9 +84,46 @@ if __name__ == "__main__":
     with open("notion_export.txt","w",encoding="utf-8") as f:
         f.write(txt)
 
-    # summary.md 생성
+    # summary.md 생성 (예쁘게 정리된 마크다운)
+    def pretty_md(node, depth=0):
+        t = node["raw"]["type"]
+        b = node["raw"]
+        text = ""
+        if t.startswith("heading_"):
+            level = {"heading_1": "#", "heading_2": "##", "heading_3": "###"}[t]
+            text = f"{level} {rich_text(b[t]['rich_text'])}"
+        elif t in ("bulleted_list_item", "numbered_list_item"):
+            bullet = "-" if t=="bulleted_list_item" else "1."
+            text = f"{'  '*depth}{bullet} {rich_text(b[t]['rich_text'])}"
+        elif t == "to_do":
+            check = "x" if b[t]["checked"] else " "
+            text = f"{'  '*depth}- [ {check} ] {rich_text(b[t]['rich_text'])}"
+        elif t == "quote":
+            text = f"> {rich_text(b[t]['rich_text'])}"
+        elif t == "callout":
+            text = f"> 💡 {rich_text(b[t]['rich_text'])}"
+        elif t == "code":
+            lang = b[t].get("language","")
+            text = f"```{lang}\n{rich_text(b[t]['rich_text'])}\n```"
+        elif t == "paragraph":
+            content = rich_text(b[t]['rich_text'])
+            if content.strip():
+                text = content
+        elif t == "image":
+            text = "![이미지](image.png)"  # 간단 대체
+        else:
+            text = f"[{t}]"
+
+        # 자식 노드 처리
+        children = [pretty_md(c, depth+1) for c in node.get("children",[])]
+        return "\n".join([text]+[c for c in children if c])
+
+    md_text = "# 📒 Notion Export Summary\n\n"
+    md_text += f"업데이트 시간: {time.strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+    md_text += "\n".join(pretty_md(n) for n in tree)
+
     with open("summary.md","w",encoding="utf-8") as f:
-        f.write("# Notion Summary\n\n")
-        f.write(txt[:2000])  # 예: 처음 2000자만 미리보기 용도로 저장
+        f.write(md_text)
+
 
     print("✅ Exported: notion_export.json, notion_export.txt, summary.md")
