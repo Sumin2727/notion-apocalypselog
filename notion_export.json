@@ -5719,7 +5719,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T05:20:00.000Z",
-      "last_edited_time": "2025-10-14T05:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:23:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -5737,7 +5737,7 @@
           {
             "type": "text",
             "text": {
-              "content": "설명",
+              "content": "① 기본 프로필 CSV",
               "link": null
             },
             "annotations": {
@@ -5748,7 +5748,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "설명",
+            "plain_text": "① 기본 프로필 CSV",
             "href": null
           }
         ],
@@ -6028,7 +6028,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T05:20:00.000Z",
-      "last_edited_time": "2025-10-14T05:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:37:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6063,7 +6063,7 @@
           {
             "type": "text",
             "text": {
-              "content": ": 호감도 수치 기입 예정.",
+              "content": ": 장수인에 대한 호감도 수치",
               "link": null
             },
             "annotations": {
@@ -6074,7 +6074,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": ": 호감도 수치 기입 예정.",
+            "plain_text": ": 장수인에 대한 호감도 수치",
             "href": null
           }
         ],
@@ -6083,82 +6083,17 @@
     }
   },
   {
-    "id": "28c044e9-65c9-80d8-962b-dfa390f6926d",
-    "type": "bulleted_list_item",
-    "raw": {
-      "object": "block",
-      "id": "28c044e9-65c9-80d8-962b-dfa390f6926d",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-14T05:20:00.000Z",
-      "last_edited_time": "2025-10-14T05:20:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "bulleted_list_item",
-      "bulleted_list_item": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "스탯/기술",
-              "link": null
-            },
-            "annotations": {
-              "bold": true,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "스탯/기술",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": ": 빈칸은 추후 채움. 지금은 기본 골격만.",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": ": 빈칸은 추후 채움. 지금은 기본 골격만.",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "28c044e9-65c9-80e2-aa71-f1dbcf65825c",
+    "id": "28c044e9-65c9-8016-b5b4-f84d48a7f7ea",
     "type": "paragraph",
     "raw": {
       "object": "block",
-      "id": "28c044e9-65c9-80e2-aa71-f1dbcf65825c",
+      "id": "28c044e9-65c9-8016-b5b4-f84d48a7f7ea",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
-      "created_time": "2025-10-14T05:19:00.000Z",
-      "last_edited_time": "2025-10-14T05:19:00.000Z",
+      "created_time": "2025-10-14T05:47:00.000Z",
+      "last_edited_time": "2025-10-14T05:47:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6176,7 +6111,7 @@
           {
             "type": "text",
             "text": {
-              "content": "csv",
+              "content": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,60,60,50,\"성좌P=2\"",
               "link": null
             },
             "annotations": {
@@ -6187,7 +6122,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "csv",
+            "plain_text": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,60,60,50,\"성좌P=2\"",
             "href": null
           }
         ],
@@ -6196,17 +6131,113 @@
     }
   },
   {
-    "id": "28c044e9-65c9-80ad-883e-cd45251c6481",
+    "id": "28c044e9-65c9-8052-b028-ebd8826c6753",
     "type": "paragraph",
     "raw": {
       "object": "block",
-      "id": "28c044e9-65c9-80ad-883e-cd45251c6481",
+      "id": "28c044e9-65c9-8052-b028-ebd8826c6753",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
-      "created_time": "2025-10-14T05:19:00.000Z",
-      "last_edited_time": "2025-10-14T05:19:00.000Z",
+      "created_time": "2025-10-14T05:47:00.000Z",
+      "last_edited_time": "2025-10-14T05:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "lee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,72,55,55,55,55,50,55,50,60,50,\"\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,68,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",55,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",50,65,70,60,50,40,55,60,60,40,\"\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "lee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,72,55,55,55,55,50,55,50,60,50,\"\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,68,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",55,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",50,65,70,60,50,40,55,60,60,40,\"\"",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80a8-b1d8-e956be1ce35e",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80a8-b1d8-e956be1ce35e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:47:00.000Z",
+      "last_edited_time": "2025-10-14T05:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "choi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "choi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80c4-9213-d71d3449c821",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80c4-9213-d71d3449c821",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:51:00.000Z",
+      "last_edited_time": "2025-10-14T05:51:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6226,3095 +6257,6 @@
     }
   },
   {
-    "id": "28c044e9-65c9-805b-8f0f-c556c3f00dc1",
-    "type": "paragraph",
-    "raw": {
-      "object": "block",
-      "id": "28c044e9-65c9-805b-8f0f-c556c3f00dc1",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-14T05:19:00.000Z",
-      "last_edited_time": "2025-10-14T05:19:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "id,name,gender,age,role,specialty,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,FirstAid,Medicine,Psychology,Brawl,Survival,Listen,Drive,Firearm,Bow,Persuade,SpotHidden,notes\njang-suin,장수인,F,29,회사원,리더/탐색,별의 시야,창·차량,\"정상\",,40,60,50,55,55,65,60,60,50,,,,,50,40,35,,,55,,\npark-jiyeon,박지연,F,27,간호사,의료·석궁,잠재 성좌능력,석궁,\"정상\",,45,60,55,60,55,60,55,70,50,65,50,40,30,20,35,25,,60,25,,\nkim-sangwoo,김상우,M,40대,기술자,건축·수리,잠재 성좌능력,망치·공구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\njung-taesik,정태식,M,30대,전직 군인,기계·발전기,잠재 성좌능력,권총,\"부상(다리)\",,,,,,,,,,,,,,,,,,,,,,\nlee-dohyun,이도현,M,20대,청년,경계·사격,잠재 성좌능력,총기,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchoi-sujeong,최수정,F,30대,구조 설계,공학 설계,잠재 성좌능력,도면·공구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nyoon-mikyung,윤미경,F,40대,주부,요리·가사,잠재 성좌능력,주방도구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\npark-chulho,박철호,M,50대,생존자,노동·운반,잠재 성좌능력,몽둥이,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchoi-youngja,최영자,F,60대,간호사,간호·위생,잠재 성좌능력,붕대·응급도구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nkim-sunyoung,김선영,F,40대,생존자,보조·생활기술,잠재 성좌능력,생활용품,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nmin-seo,민서,F,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchild1,아이1,?,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchild2,아이2,?,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "id,name,gender,age,role,specialty,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,FirstAid,Medicine,Psychology,Brawl,Survival,Listen,Drive,Firearm,Bow,Persuade,SpotHidden,notes\njang-suin,장수인,F,29,회사원,리더/탐색,별의 시야,창·차량,\"정상\",,40,60,50,55,55,65,60,60,50,,,,,50,40,35,,,55,,\npark-jiyeon,박지연,F,27,간호사,의료·석궁,잠재 성좌능력,석궁,\"정상\",,45,60,55,60,55,60,55,70,50,65,50,40,30,20,35,25,,60,25,,\nkim-sangwoo,김상우,M,40대,기술자,건축·수리,잠재 성좌능력,망치·공구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\njung-taesik,정태식,M,30대,전직 군인,기계·발전기,잠재 성좌능력,권총,\"부상(다리)\",,,,,,,,,,,,,,,,,,,,,,\nlee-dohyun,이도현,M,20대,청년,경계·사격,잠재 성좌능력,총기,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchoi-sujeong,최수정,F,30대,구조 설계,공학 설계,잠재 성좌능력,도면·공구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nyoon-mikyung,윤미경,F,40대,주부,요리·가사,잠재 성좌능력,주방도구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\npark-chulho,박철호,M,50대,생존자,노동·운반,잠재 성좌능력,몽둥이,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchoi-youngja,최영자,F,60대,간호사,간호·위생,잠재 성좌능력,붕대·응급도구,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nkim-sunyoung,김선영,F,40대,생존자,보조·생활기술,잠재 성좌능력,생활용품,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nmin-seo,민서,F,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchild1,아이1,?,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,\nchild2,아이2,?,10대,아이,학습·사기,잠재 성좌능력,없음,\"정상\",,,,,,,,,,,,,,,,,,,,,,",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "281044e9-65c9-809e-916f-cbe762ca7cea",
-    "type": "table",
-    "raw": {
-      "object": "block",
-      "id": "281044e9-65c9-809e-916f-cbe762ca7cea",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-14T04:54:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": true,
-      "archived": false,
-      "in_trash": false,
-      "type": "table",
-      "table": {
-        "table_width": 10,
-        "has_column_header": true,
-        "has_row_header": false
-      }
-    },
-    "children": [
-      {
-        "id": "281044e9-65c9-802a-b80f-ce9a6296cf11",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-802a-b80f-ce9a6296cf11",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "이름",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "이름",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "나이",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "나이",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "성별",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "성별",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "성격",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "성격",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "직업/특기",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "직업/특기",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "성좌 능력",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "성좌 능력",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "장비",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "장비",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "배급 상태",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "배급 상태",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "현재 상태",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "현재 상태",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "호감도",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "호감도",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-806b-80b9-ee25e6297693",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-806b-80b9-ee25e6297693",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "장수인",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "장수인",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "29",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "29",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "여성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "여성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "침착, 차분, 이성적",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "침착, 차분, 이성적",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "회사원 (리더)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "회사원 (리더)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "약점 간파, 별의 시야",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "약점 간파, 별의 시야",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "장창, 가죽갑옷",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "장창, 가죽갑옷",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "절약(0.8)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "절약(0.8)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "건강",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "건강",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "본인",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "본인",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-80d1-9c32-c4a28bd7b3a8",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-80d1-9c32-c4a28bd7b3a8",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "이도현",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "이도현",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "26",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "26",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "남성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "남성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "성실, 책임감, 상냥함",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "성실, 책임감, 상냥함",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "의대생",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "의대생",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "? (숨겨진 능력)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "? (숨겨진 능력)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "개조식칼, 방패",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "개조식칼, 방패",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급(1.0)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급(1.0)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "건강",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "건강",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "72",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "72",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-80f9-b567-dec5234be8c5",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-80f9-b567-dec5234be8c5",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "김상우",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "김상우",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "34",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "34",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "남성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "남성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "실용적, 유머러스, 장인기질",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "실용적, 유머러스, 장인기질",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "목수 (제작)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "목수 (제작)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "제작 강화",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "제작 강화",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "철제 방망이, 방패",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "철제 방망이, 방패",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "경미한 부상 회복중",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "경미한 부상 회복중",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "55",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "55",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-801c-b018-f30c7ce9d276",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-801c-b018-f30c7ce9d276",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정태식",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정태식",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "42",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "42",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "남성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "남성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "신중, 분석적, 꼼꼼",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "신중, 분석적, 꼼꼼",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정비사 (기술자)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정비사 (기술자)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "기계 이해",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "기계 이해",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "건강. 오른쪽 저름발.",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "건강. 오른쪽 저름발.",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "50",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "50",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-808a-b5c9-f85209444b4d",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-808a-b5c9-f85209444b4d",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "박지연",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "박지연",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "27",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "27",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "여성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "여성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "활발, 담대, 직설적, 장난스러움",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "활발, 담대, 직설적, 장난스러움",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "간호사 (전투 보조)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "간호사 (전투 보조)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "원거리 숙련",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "원거리 숙련",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "석궁",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "석궁",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "건강",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "건강",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "68",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "68",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-800c-8459-d8eedf11569a",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-800c-8459-d8eedf11569a",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "최영자",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "최영자",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "56",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "56",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "여성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "여성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "따뜻함, 신중함, 모성적",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "따뜻함, 신중함, 모성적",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "간호사 (지리 지식)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "간호사 (지리 지식)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "?",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "?",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "건강",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "건강",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "58",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "58",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-8077-abc3-f4432b81e4a9",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-8077-abc3-f4432b81e4a9",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "김선영",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "김선영",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "32",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "32",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "남성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "남성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "전문적, 진지, 냉철",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "전문적, 진지, 냉철",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "레지던트 (의학)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "레지던트 (의학)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "?",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "?",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "건강",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "건강",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "56",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "56",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-806e-a6fb-db777825b434",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-806e-a6fb-db777825b434",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "이수정",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "이수정",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "30",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "30",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "여성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "여성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "다정함, 보호적, 긍정적",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "다정함, 보호적, 긍정적",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "간호사 (아이 돌봄)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "간호사 (아이 돌봄)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "?",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "?",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "건강",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "건강",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "60",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "60",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-8009-829c-fe099e38f58d",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-8009-829c-fe099e38f58d",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "민서",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "민서",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "24",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "24",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "여성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "여성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "의지적, 순응적, 용감",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "의지적, 순응적, 용감",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "대학생 (부상자)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "대학생 (부상자)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "?",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "?",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "절약(0.8)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "절약(0.8)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "회복 중",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "회복 중",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "62",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "62",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-8011-a2d7-f839fc3e796a",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-8011-a2d7-f839fc3e796a",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T12:26:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "박철호",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "박철호",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "68",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "68",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "남성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "남성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "신중, 꼼꼼함, 현실적, 협조적",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "신중, 꼼꼼함, 현실적, 협조적",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "은퇴 회계사(행정/배급 실무)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "은퇴 회계사(행정/배급 실무)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "?",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "?",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "거동 제한 약간(두통, 빈혈 가끔)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "거동 제한 약간(두통, 빈혈 가끔)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "62",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "62",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-80f8-a223-fb9a522513df",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-80f8-a223-fb9a522513df",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T12:26:00.000Z",
-          "last_edited_time": "2025-10-14T02:57:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "윤미경",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "윤미경",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "45",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "45",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "여성",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "여성",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "지혜로움, 사려 깊음, 배려심",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "지혜로움, 사려 깊음, 배려심",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "간병인(요리)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "간병인(요리)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "?",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "?",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "허리 경미 통증(업무 가능)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "허리 경미 통증(업무 가능)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "68",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "68",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-80da-b15d-fb6688cd2895",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-80da-b15d-fb6688cd2895",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-08T14:51:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "아이들(2)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "아이들(2)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "8~10",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "8~10",
-                  "href": null
-                }
-              ],
-              [],
-              [],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "학생(재배 담당)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "학생(재배 담당)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "정배급",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "정배급",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "건강",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "건강",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "65",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "65",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      },
-      {
-        "id": "281044e9-65c9-80c0-8534-c92907fe6314",
-        "type": "table_row",
-        "raw": {
-          "object": "block",
-          "id": "281044e9-65c9-80c0-8534-c92907fe6314",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
-          },
-          "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-08T14:51:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "table_row",
-          "table_row": {
-            "cells": [
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "중환자(2)",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "중환자(2)",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "-",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "-",
-                  "href": null
-                }
-              ],
-              [],
-              [],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "-",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "-",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "-",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "-",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "수액",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "수액",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "의식 없음",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "의식 없음",
-                  "href": null
-                }
-              ],
-              [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "-",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "-",
-                  "href": null
-                }
-              ]
-            ]
-          }
-        }
-      }
-    ]
-  },
-  {
     "id": "28c044e9-65c9-8093-868a-edd8e7b45f0a",
     "type": "bulleted_list_item",
     "raw": {
@@ -9325,7 +6267,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T02:20:00.000Z",
-      "last_edited_time": "2025-10-14T02:20:00.000Z",
+      "last_edited_time": "2025-10-14T05:51:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -9459,6 +6401,417 @@
         }
       }
     ]
+  },
+  {
+    "id": "28c044e9-65c9-801e-bca4-d4b45f3387cd",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-801e-bca4-d4b45f3387cd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:51:00.000Z",
+      "last_edited_time": "2025-10-14T05:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80fd-a3a3-f09f2582560c",
+    "type": "heading_3",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80fd-a3a3-f09f2582560c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:51:00.000Z",
+      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "② 기술치 CSV (사회/정신 그룹)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "② 기술치 CSV (사회/정신 그룹)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8019-b472-ccadda808a44",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8019-b472-ccadda808a44",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:52:00.000Z",
+      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "id,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult\njang-suin,15,5,55,15,35,25,40,20,20,65,1,5\nlee-dohyun,20,10,40,20,30,35,40,25,25,80,10,5\npark-jiyeon,25,10,25,10,40,35,35,30,20,90,5,5\nkim-sangwoo,15,5,30,15,25,35,30,20,20,70,1,5\njung-taesik,10,5,25,20,25,40,35,15,20,70,1,5\nchoi-youngja,20,5,35,10,40,30,30,40,25,85,5,5\nkim-sunyoung,15,10,30,15,30,30,30,25,25,80,10,5\nlee-sujeong,25,10,40,15,35,30,35,30,20,85,5,5\nyoon-mikyung,20,5,30,15,35,30,35,20,20,80,1,5\npark-chulho,10,5,25,10,25,25,30,35,40,85,5,5\nmin-seo,20,10,35,10,35,25,30,25,20,80,10,5\nchild1,15,5,20,5,20,20,20,15,10,60,1,5\nchild2,15,5,20,5,20,20,20,15,10,60,1,5",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "id,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult\njang-suin,15,5,55,15,35,25,40,20,20,65,1,5\nlee-dohyun,20,10,40,20,30,35,40,25,25,80,10,5\npark-jiyeon,25,10,25,10,40,35,35,30,20,90,5,5\nkim-sangwoo,15,5,30,15,25,35,30,20,20,70,1,5\njung-taesik,10,5,25,20,25,40,35,15,20,70,1,5\nchoi-youngja,20,5,35,10,40,30,30,40,25,85,5,5\nkim-sunyoung,15,10,30,15,30,30,30,25,25,80,10,5\nlee-sujeong,25,10,40,15,35,30,35,30,20,85,5,5\nyoon-mikyung,20,5,30,15,35,30,35,20,20,80,1,5\npark-chulho,10,5,25,10,25,25,30,35,40,85,5,5\nmin-seo,20,10,35,10,35,25,30,25,20,80,10,5\nchild1,15,5,20,5,20,20,20,15,10,60,1,5\nchild2,15,5,20,5,20,20,20,15,10,60,1,5",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80e7-922c-d31228c3310b",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80e7-922c-d31228c3310b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:52:00.000Z",
+      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80e1-a5e7-edd3ea6589d3",
+    "type": "heading_3",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80e1-a5e7-edd3ea6589d3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:52:00.000Z",
+      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "③ 기술치 CSV (전투/신체 그룹)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "③ 기술치 CSV (전투/신체 그룹)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8097-87f5-f0f1b20caf22",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8097-87f5-f0f1b20caf22",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:52:00.000Z",
+      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "id,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride\njang-suin,55,50,20,25,0,20,20,20,20,50,20,5\nlee-dohyun,50,45,25,30,0,20,20,20,20,30,20,5\npark-jiyeon,60,30,20,25,60,20,25,20,30,20,15,5\nkim-sangwoo,45,40,20,25,0,25,20,20,20,40,20,5\njung-taesik,45,55,40,50,0,30,20,25,20,50,25,5\nchoi-youngja,30,25,10,15,0,15,15,15,15,20,10,5\nkim-sunyoung,40,30,20,20,0,20,20,20,20,25,15,5\nlee-sujeong,45,30,20,20,0,20,20,20,20,25,15,5\nyoon-mikyung,40,30,15,20,0,20,20,20,20,25,15,5\npark-chulho,30,25,10,10,0,15,15,15,15,20,10,5\nmin-seo,40,25,10,15,0,20,20,20,20,20,15,5\nchild1,25,20,0,0,0,15,15,15,15,20,10,5\nchild2,25,20,0,0,0,15,15,15,15,20,10,5",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "id,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride\njang-suin,55,50,20,25,0,20,20,20,20,50,20,5\nlee-dohyun,50,45,25,30,0,20,20,20,20,30,20,5\npark-jiyeon,60,30,20,25,60,20,25,20,30,20,15,5\nkim-sangwoo,45,40,20,25,0,25,20,20,20,40,20,5\njung-taesik,45,55,40,50,0,30,20,25,20,50,25,5\nchoi-youngja,30,25,10,15,0,15,15,15,15,20,10,5\nkim-sunyoung,40,30,20,20,0,20,20,20,20,25,15,5\nlee-sujeong,45,30,20,20,0,20,20,20,20,25,15,5\nyoon-mikyung,40,30,15,20,0,20,20,20,20,25,15,5\npark-chulho,30,25,10,10,0,15,15,15,15,20,10,5\nmin-seo,40,25,10,15,0,20,20,20,20,20,15,5\nchild1,25,20,0,0,0,15,15,15,15,20,10,5\nchild2,25,20,0,0,0,15,15,15,15,20,10,5",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8092-b541-fd194225f6ae",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8092-b541-fd194225f6ae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:52:00.000Z",
+      "last_edited_time": "2025-10-14T05:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80da-af82-eb6847f9c96f",
+    "type": "heading_3",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80da-af82-eb6847f9c96f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:52:00.000Z",
+      "last_edited_time": "2025-10-14T05:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "④ 기술치 CSV (지식/직업 그룹)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "④ 기술치 CSV (지식/직업 그룹)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-80d8-9fce-cd5af29d05cd",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-80d8-9fce-cd5af29d05cd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:53:00.000Z",
+      "last_edited_time": "2025-10-14T05:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "id,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos\njang-suin,5,1,5,1,5,5,5,10,40,1,10,10,10,10,5,5,1,10,10,10,0\nlee-dohyun,5,1,5,1,5,10,5,15,30,20,10,10,20,15,10,5,5,15,10,10,0\npark-jiyeon,5,1,5,1,5,10,5,20,65,50,10,10,20,10,20,5,1,15,15,15,0\nkim-sangwoo,10,1,10,1,10,10,5,15,25,5,45,20,10,10,5,5,25,15,10,10,0\njung-taesik,5,1,5,1,5,10,5,15,35,10,25,15,10,10,5,5,20,15,15,10,0\nchoi-youngja,5,1,5,1,10,15,5,20,70,60,10,10,15,10,10,5,1,10,10,10,0\nkim-sunyoung,10,1,5,1,5,10,5,15,40,30,15,15,15,10,10,5,1,15,10,10,0\nlee-sujeong,5,1,5,1,5,10,5,15,35,20,10,10,15,10,10,5,1,15,10,10,0\nyoon-mikyung,5,1,5,1,5,10,5,15,30,10,10,10,10,10,5,5,1,10,10,10,0\npark-chulho,25,1,10,1,5,15,15,15,25,10,10,10,10,10,5,5,1,10,10,10,0\nmin-seo,5,1,5,1,5,10,5,25,30,5,10,10,35,15,10,5,1,10,10,10,0\nchild1,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0\nchild2,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "id,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos\njang-suin,5,1,5,1,5,5,5,10,40,1,10,10,10,10,5,5,1,10,10,10,0\nlee-dohyun,5,1,5,1,5,10,5,15,30,20,10,10,20,15,10,5,5,15,10,10,0\npark-jiyeon,5,1,5,1,5,10,5,20,65,50,10,10,20,10,20,5,1,15,15,15,0\nkim-sangwoo,10,1,10,1,10,10,5,15,25,5,45,20,10,10,5,5,25,15,10,10,0\njung-taesik,5,1,5,1,5,10,5,15,35,10,25,15,10,10,5,5,20,15,15,10,0\nchoi-youngja,5,1,5,1,10,15,5,20,70,60,10,10,15,10,10,5,1,10,10,10,0\nkim-sunyoung,10,1,5,1,5,10,5,15,40,30,15,15,15,10,10,5,1,15,10,10,0\nlee-sujeong,5,1,5,1,5,10,5,15,35,20,10,10,15,10,10,5,1,15,10,10,0\nyoon-mikyung,5,1,5,1,5,10,5,15,30,10,10,10,10,10,5,5,1,10,10,10,0\npark-chulho,25,1,10,1,5,15,15,15,25,10,10,10,10,10,5,5,1,10,10,10,0\nmin-seo,5,1,5,1,5,10,5,25,30,5,10,10,35,15,10,5,1,10,10,10,0\nchild1,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0\nchild2,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  },
+  {
+    "id": "28c044e9-65c9-8008-9baa-d744cc8d4174",
+    "type": "paragraph",
+    "raw": {
+      "object": "block",
+      "id": "28c044e9-65c9-8008-9baa-d744cc8d4174",
+      "parent": {
+        "type": "page_id",
+        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+      },
+      "created_time": "2025-10-14T05:53:00.000Z",
+      "last_edited_time": "2025-10-14T05:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
   },
   {
     "id": "281044e9-65c9-8005-8bff-f7d3378f88b1",
@@ -9986,7 +7339,7 @@
             "block_id": "281044e9-65c9-80f3-ba1b-f62b3a8a67f7"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-03T09:01:00.000Z",
+          "last_edited_time": "2025-10-14T06:11:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -10024,7 +7377,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(25일분)\n- 특수 의약품(15~20일분)\n- 의약 소모품 2~3주분",
+                    "content": "안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(24일분)\n- 특수 의약품(19일분)\n- 의약 소모품 2~3주분",
                     "link": null
                   },
                   "annotations": {
@@ -10035,7 +7388,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(25일분)\n- 특수 의약품(15~20일분)\n- 의약 소모품 2~3주분",
+                  "plain_text": "안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(24일분)\n- 특수 의약품(19일분)\n- 의약 소모품 2~3주분",
                   "href": null
                 }
               ]
@@ -11961,277 +9314,6 @@
               "color": "default"
             },
             "plain_text": "지하주차장 막는 바리케이드 설치",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "281044e9-65c9-801a-a566-e54e8849cb79",
-    "type": "divider",
-    "raw": {
-      "object": "block",
-      "id": "281044e9-65c9-801a-a566-e54e8849cb79",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-03T08:52:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "divider",
-      "divider": {}
-    }
-  },
-  {
-    "id": "281044e9-65c9-8065-a76e-db5aa5e85ba6",
-    "type": "heading_2",
-    "raw": {
-      "object": "block",
-      "id": "281044e9-65c9-8065-a76e-db5aa5e85ba6",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-03T08:52:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "4. 배급 기준",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "4. 배급 기준",
-            "href": null
-          }
-        ],
-        "is_toggleable": false,
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "281044e9-65c9-80e9-95c6-cd79c29eaa33",
-    "type": "bulleted_list_item",
-    "raw": {
-      "object": "block",
-      "id": "281044e9-65c9-80e9-95c6-cd79c29eaa33",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-03T08:52:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "bulleted_list_item",
-      "bulleted_list_item": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "정배급(1.0)",
-              "link": null
-            },
-            "annotations": {
-              "bold": true,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "정배급(1.0)",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": " – 일반량",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": " – 일반량",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "281044e9-65c9-8019-abbc-db4893f20a58",
-    "type": "bulleted_list_item",
-    "raw": {
-      "object": "block",
-      "id": "281044e9-65c9-8019-abbc-db4893f20a58",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-03T08:52:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "bulleted_list_item",
-      "bulleted_list_item": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "절약배급(0.8)",
-              "link": null
-            },
-            "annotations": {
-              "bold": true,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "절약배급(0.8)",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": " – 희생적 절약",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": " – 희생적 절약",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "281044e9-65c9-802d-ba11-c994bf5b76d5",
-    "type": "bulleted_list_item",
-    "raw": {
-      "object": "block",
-      "id": "281044e9-65c9-802d-ba11-c994bf5b76d5",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-03T12:09:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "bulleted_list_item",
-      "bulleted_list_item": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "특별배급(1.3)",
-              "link": null
-            },
-            "annotations": {
-              "bold": true,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "특별배급(1.3)",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": " – 부상/중요작업자용",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": " – 부상/중요작업자용",
             "href": null
           }
         ],
