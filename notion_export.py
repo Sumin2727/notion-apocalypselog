@@ -84,4 +84,9 @@ if __name__ == "__main__":
     with open("notion_export.txt","w",encoding="utf-8") as f:
         f.write(txt)
 
-    print("✅ Exported: notion_export.json, notion_export.txt")
+    # summary.md 생성
+    with open("summary.md","w",encoding="utf-8") as f:
+        f.write("# Notion Summary\n\n")
+        f.write(txt[:2000])  # 예: 처음 2000자만 미리보기 용도로 저장
+
+    print("✅ Exported: notion_export.json, notion_export.txt, summary.md")
