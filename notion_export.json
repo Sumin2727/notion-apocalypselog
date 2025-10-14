@@ -4960,7 +4960,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-03T15:01:00.000Z",
-      "last_edited_time": "2025-10-03T15:01:00.000Z",
+      "last_edited_time": "2025-10-14T12:59:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -4978,7 +4978,7 @@
           {
             "type": "text",
             "text": {
-              "content": "캐릭터 시트 작성",
+              "content": "캐릭터 시트 작성(다음과 같은 csv 형식으로 작성)",
               "link": null
             },
             "annotations": {
@@ -4989,7 +4989,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "캐릭터 시트 작성",
+            "plain_text": "캐릭터 시트 작성(다음과 같은 csv 형식으로 작성)",
             "href": null
           }
         ],
@@ -5382,6 +5382,54 @@
             }
           }
         ]
+      },
+      {
+        "id": "28c044e9-65c9-80ca-a1c7-c38f8fa85582",
+        "type": "paragraph",
+        "raw": {
+          "object": "block",
+          "id": "28c044e9-65c9-80ca-a1c7-c38f8fa85582",
+          "parent": {
+            "type": "block_id",
+            "block_id": "281044e9-65c9-809a-938f-ea4aa4ea1cf6"
+          },
+          "created_time": "2025-10-14T12:59:00.000Z",
+          "last_edited_time": "2025-10-14T12:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\nid,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult\nid,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride\nid,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\nid,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult\nid,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride\nid,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
       }
     ]
   },
@@ -6190,7 +6238,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:26:00.000Z",
-      "last_edited_time": "2025-10-14T12:45:00.000Z",
+      "last_edited_time": "2025-10-14T13:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6209,7 +6257,7 @@
           {
             "type": "text",
             "text": {
-              "content": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,65,60,50,\"성좌P=3, POW 판정 실패 시 1회 보정 재굴림 가능(1일 1회)\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,89,55,55,55,55,50,55,50,60,50,\"전투 시 수인과 같은 전열일 때 첫 방어 판정 +15 보정\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,75,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",58,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",55,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
+              "content": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,65,60,50,\"성좌P=3, POW 판정 실패 시 1회 보정 재굴림 가능(1일 1회)\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,91,55,55,55,55,50,55,50,60,50,\"전투 시 수인과 같은 전열일 때 첫 방어 판정 +15 보정\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,77,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",58,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",55,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nyoon-harin,윤하린,F,22,대학생,생물학 전공/약초 지식,\"불안하지만 성실, 신뢰를 갈구함\",0,\"단검\",탈수/피로(회복중),53,40,45,45,55,60,65,50,60,50,\"산속에서 탈출, 가족을 잃음. 별빛 현상 목격.\"",
               "link": null
             },
             "annotations": {
@@ -6220,7 +6268,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,65,60,50,\"성좌P=3, POW 판정 실패 시 1회 보정 재굴림 가능(1일 1회)\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,89,55,55,55,55,50,55,50,60,50,\"전투 시 수인과 같은 전열일 때 첫 방어 판정 +15 보정\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,75,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",58,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",55,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
+            "plain_text": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,65,60,50,\"성좌P=3, POW 판정 실패 시 1회 보정 재굴림 가능(1일 1회)\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,91,55,55,55,55,50,55,50,60,50,\"전투 시 수인과 같은 전열일 때 첫 방어 판정 +15 보정\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,77,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",58,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",55,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nyoon-harin,윤하린,F,22,대학생,생물학 전공/약초 지식,\"불안하지만 성실, 신뢰를 갈구함\",0,\"단검\",탈수/피로(회복중),53,40,45,45,55,60,65,50,60,50,\"산속에서 탈출, 가족을 잃음. 별빛 현상 목격.\"",
             "href": null
           }
         ],
@@ -6464,7 +6512,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:28:00.000Z",
-      "last_edited_time": "2025-10-14T06:29:00.000Z",
+      "last_edited_time": "2025-10-14T13:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6483,7 +6531,7 @@
           {
             "type": "text",
             "text": {
-              "content": "id,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult\njang-suin,15,5,55,15,35,25,40,20,20,65,1,5\nlee-dohyun,20,10,40,20,30,35,40,25,25,80,10,5\npark-jiyeon,25,10,25,10,40,35,35,30,20,90,5,5\nkim-sangwoo,15,5,30,15,25,35,30,20,20,70,1,5\njung-taesik,10,5,25,20,25,40,35,15,20,70,1,5\nchoi-youngja,20,5,35,10,40,30,30,40,25,85,5,5\nkim-sunyoung,15,10,30,15,30,30,30,25,25,80,10,5\nlee-sujeong,25,10,40,15,35,30,35,30,20,85,5,5\nyoon-mikyung,20,5,30,15,35,30,35,20,20,80,1,5\npark-chulho,10,5,25,10,25,25,30,35,40,85,5,5\nmin-seo,20,10,35,10,35,25,30,25,20,80,10,5\nchild1,15,5,20,5,20,20,20,15,10,60,1,5\nchild2,15,5,20,5,20,20,20,15,10,60,1,5",
+              "content": "id,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult\njang-suin,15,5,55,15,35,25,40,20,20,65,1,5\nlee-dohyun,20,10,40,20,30,35,40,25,25,80,10,5\npark-jiyeon,25,10,25,10,40,35,35,30,20,90,5,5\nkim-sangwoo,15,5,30,15,25,35,30,20,20,70,1,5\njung-taesik,10,5,25,20,25,40,35,15,20,70,1,5\nchoi-youngja,20,5,35,10,40,30,30,40,25,85,5,5\nkim-sunyoung,15,10,30,15,30,30,30,25,25,80,10,5\nlee-sujeong,25,10,40,15,35,30,35,30,20,85,5,5\nyoon-mikyung,20,5,30,15,35,30,35,20,20,80,1,5\npark-chulho,10,5,25,10,25,25,30,35,40,85,5,5\nmin-seo,20,10,35,10,35,25,30,25,20,80,10,5\nchild1,15,5,20,5,20,20,20,15,10,60,1,5\nchild2,15,5,20,5,20,20,20,15,10,60,1,5\nyoon-harin,55,25,50,15,35,50,50,55,25,60,20,10",
               "link": null
             },
             "annotations": {
@@ -6494,7 +6542,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "id,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult\njang-suin,15,5,55,15,35,25,40,20,20,65,1,5\nlee-dohyun,20,10,40,20,30,35,40,25,25,80,10,5\npark-jiyeon,25,10,25,10,40,35,35,30,20,90,5,5\nkim-sangwoo,15,5,30,15,25,35,30,20,20,70,1,5\njung-taesik,10,5,25,20,25,40,35,15,20,70,1,5\nchoi-youngja,20,5,35,10,40,30,30,40,25,85,5,5\nkim-sunyoung,15,10,30,15,30,30,30,25,25,80,10,5\nlee-sujeong,25,10,40,15,35,30,35,30,20,85,5,5\nyoon-mikyung,20,5,30,15,35,30,35,20,20,80,1,5\npark-chulho,10,5,25,10,25,25,30,35,40,85,5,5\nmin-seo,20,10,35,10,35,25,30,25,20,80,10,5\nchild1,15,5,20,5,20,20,20,15,10,60,1,5\nchild2,15,5,20,5,20,20,20,15,10,60,1,5",
+            "plain_text": "id,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult\njang-suin,15,5,55,15,35,25,40,20,20,65,1,5\nlee-dohyun,20,10,40,20,30,35,40,25,25,80,10,5\npark-jiyeon,25,10,25,10,40,35,35,30,20,90,5,5\nkim-sangwoo,15,5,30,15,25,35,30,20,20,70,1,5\njung-taesik,10,5,25,20,25,40,35,15,20,70,1,5\nchoi-youngja,20,5,35,10,40,30,30,40,25,85,5,5\nkim-sunyoung,15,10,30,15,30,30,30,25,25,80,10,5\nlee-sujeong,25,10,40,15,35,30,35,30,20,85,5,5\nyoon-mikyung,20,5,30,15,35,30,35,20,20,80,1,5\npark-chulho,10,5,25,10,25,25,30,35,40,85,5,5\nmin-seo,20,10,35,10,35,25,30,25,20,80,10,5\nchild1,15,5,20,5,20,20,20,15,10,60,1,5\nchild2,15,5,20,5,20,20,20,15,10,60,1,5\nyoon-harin,55,25,50,15,35,50,50,55,25,60,20,10",
             "href": null
           }
         ],
@@ -6592,7 +6640,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:29:00.000Z",
-      "last_edited_time": "2025-10-14T06:29:00.000Z",
+      "last_edited_time": "2025-10-14T13:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6611,7 +6659,7 @@
           {
             "type": "text",
             "text": {
-              "content": "id,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride\njang-suin,55,50,20,25,0,20,20,20,20,50,20,5\nlee-dohyun,50,45,25,30,0,20,20,20,20,30,20,5\npark-jiyeon,60,30,20,25,60,20,25,20,30,20,15,5\nkim-sangwoo,45,40,20,25,0,25,20,20,20,40,20,5\njung-taesik,45,55,40,50,0,30,20,25,20,50,25,5\nchoi-youngja,30,25,10,15,0,15,15,15,15,20,10,5\nkim-sunyoung,40,30,20,20,0,20,20,20,20,25,15,5\nlee-sujeong,45,30,20,20,0,20,20,20,20,25,15,5\nyoon-mikyung,40,30,15,20,0,20,20,20,20,25,15,5\npark-chulho,30,25,10,10,0,15,15,15,15,20,10,5\nmin-seo,40,25,10,15,0,20,20,20,20,20,15,5\nchild1,25,20,0,0,0,15,15,15,15,20,10,5\nchild2,25,20,0,0,0,15,15,15,15,20,10,5",
+              "content": "id,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride\njang-suin,55,50,20,25,0,20,20,20,20,50,20,5\nlee-dohyun,50,45,25,30,0,20,20,20,20,30,20,5\npark-jiyeon,60,30,20,25,60,20,25,20,30,20,15,5\nkim-sangwoo,45,40,20,25,0,25,20,20,20,40,20,5\njung-taesik,45,55,40,50,0,30,20,25,20,50,25,5\nchoi-youngja,30,25,10,15,0,15,15,15,15,20,10,5\nkim-sunyoung,40,30,20,20,0,20,20,20,20,25,15,5\nlee-sujeong,45,30,20,20,0,20,20,20,20,25,15,5\nyoon-mikyung,40,30,15,20,0,20,20,20,20,25,15,5\npark-chulho,30,25,10,10,0,15,15,15,15,20,10,5\nmin-seo,40,25,10,15,0,20,20,20,20,20,15,5\nchild1,25,20,0,0,0,15,15,15,15,20,10,5\nchild2,25,20,0,0,0,15,15,15,15,20,10,5\nyoon-harin,35,30,20,25,20,30,25,25,30,35,25,20",
               "link": null
             },
             "annotations": {
@@ -6622,7 +6670,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "id,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride\njang-suin,55,50,20,25,0,20,20,20,20,50,20,5\nlee-dohyun,50,45,25,30,0,20,20,20,20,30,20,5\npark-jiyeon,60,30,20,25,60,20,25,20,30,20,15,5\nkim-sangwoo,45,40,20,25,0,25,20,20,20,40,20,5\njung-taesik,45,55,40,50,0,30,20,25,20,50,25,5\nchoi-youngja,30,25,10,15,0,15,15,15,15,20,10,5\nkim-sunyoung,40,30,20,20,0,20,20,20,20,25,15,5\nlee-sujeong,45,30,20,20,0,20,20,20,20,25,15,5\nyoon-mikyung,40,30,15,20,0,20,20,20,20,25,15,5\npark-chulho,30,25,10,10,0,15,15,15,15,20,10,5\nmin-seo,40,25,10,15,0,20,20,20,20,20,15,5\nchild1,25,20,0,0,0,15,15,15,15,20,10,5\nchild2,25,20,0,0,0,15,15,15,15,20,10,5",
+            "plain_text": "id,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride\njang-suin,55,50,20,25,0,20,20,20,20,50,20,5\nlee-dohyun,50,45,25,30,0,20,20,20,20,30,20,5\npark-jiyeon,60,30,20,25,60,20,25,20,30,20,15,5\nkim-sangwoo,45,40,20,25,0,25,20,20,20,40,20,5\njung-taesik,45,55,40,50,0,30,20,25,20,50,25,5\nchoi-youngja,30,25,10,15,0,15,15,15,15,20,10,5\nkim-sunyoung,40,30,20,20,0,20,20,20,20,25,15,5\nlee-sujeong,45,30,20,20,0,20,20,20,20,25,15,5\nyoon-mikyung,40,30,15,20,0,20,20,20,20,25,15,5\npark-chulho,30,25,10,10,0,15,15,15,15,20,10,5\nmin-seo,40,25,10,15,0,20,20,20,20,20,15,5\nchild1,25,20,0,0,0,15,15,15,15,20,10,5\nchild2,25,20,0,0,0,15,15,15,15,20,10,5\nyoon-harin,35,30,20,25,20,30,25,25,30,35,25,20",
             "href": null
           }
         ],
@@ -6720,7 +6768,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:29:00.000Z",
-      "last_edited_time": "2025-10-14T06:29:00.000Z",
+      "last_edited_time": "2025-10-14T13:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6739,7 +6787,7 @@
           {
             "type": "text",
             "text": {
-              "content": "id,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos\njang-suin,5,1,5,1,5,5,5,10,40,1,10,10,10,10,5,5,1,10,10,10,0\nlee-dohyun,5,1,5,1,5,10,5,15,30,20,10,10,20,15,10,5,5,15,10,10,0\npark-jiyeon,5,1,5,1,5,10,5,20,65,50,10,10,20,10,20,5,1,15,15,15,0\nkim-sangwoo,10,1,10,1,10,10,5,15,25,5,45,20,10,10,5,5,25,15,10,10,0\njung-taesik,5,1,5,1,5,10,5,15,35,10,25,15,10,10,5,5,20,15,15,10,0\nchoi-youngja,5,1,5,1,10,15,5,20,70,60,10,10,15,10,10,5,1,10,10,10,0\nkim-sunyoung,10,1,5,1,5,10,5,15,40,30,15,15,15,10,10,5,1,15,10,10,0\nlee-sujeong,5,1,5,1,5,10,5,15,35,20,10,10,15,10,10,5,1,15,10,10,0\nyoon-mikyung,5,1,5,1,5,10,5,15,30,10,10,10,10,10,5,5,1,10,10,10,0\npark-chulho,25,1,10,1,5,15,15,15,25,10,10,10,10,10,5,5,1,10,10,10,0\nmin-seo,5,1,5,1,5,10,5,25,30,5,10,10,35,15,10,5,1,10,10,10,0\nchild1,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0\nchild2,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0",
+              "content": "id,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos\njang-suin,5,1,5,1,5,5,5,10,40,1,10,10,10,10,5,5,1,10,10,10,0\nlee-dohyun,5,1,5,1,5,10,5,15,30,20,10,10,20,15,10,5,5,15,10,10,0\npark-jiyeon,5,1,5,1,5,10,5,20,65,50,10,10,20,10,20,5,1,15,15,15,0\nkim-sangwoo,10,1,10,1,10,10,5,15,25,5,45,20,10,10,5,5,25,15,10,10,0\njung-taesik,5,1,5,1,5,10,5,15,35,10,25,15,10,10,5,5,20,15,15,10,0\nchoi-youngja,5,1,5,1,10,15,5,20,70,60,10,10,15,10,10,5,1,10,10,10,0\nkim-sunyoung,10,1,5,1,5,10,5,15,40,30,15,15,15,10,10,5,1,15,10,10,0\nlee-sujeong,5,1,5,1,5,10,5,15,35,20,10,10,15,10,10,5,1,15,10,10,0\nyoon-mikyung,5,1,5,1,5,10,5,15,30,10,10,10,10,10,5,5,1,10,10,10,0\npark-chulho,25,1,10,1,5,15,15,15,25,10,10,10,10,10,5,5,1,10,10,10,0\nmin-seo,5,1,5,1,5,10,5,25,30,5,10,10,35,15,10,5,1,10,10,10,0\nchild1,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0\nchild2,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0\nyoon-harin,15,20,20,20,30,30,20,50,40,25,20,20,65,45,30,20,20,25,25,20,00",
               "link": null
             },
             "annotations": {
@@ -6750,7 +6798,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "id,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos\njang-suin,5,1,5,1,5,5,5,10,40,1,10,10,10,10,5,5,1,10,10,10,0\nlee-dohyun,5,1,5,1,5,10,5,15,30,20,10,10,20,15,10,5,5,15,10,10,0\npark-jiyeon,5,1,5,1,5,10,5,20,65,50,10,10,20,10,20,5,1,15,15,15,0\nkim-sangwoo,10,1,10,1,10,10,5,15,25,5,45,20,10,10,5,5,25,15,10,10,0\njung-taesik,5,1,5,1,5,10,5,15,35,10,25,15,10,10,5,5,20,15,15,10,0\nchoi-youngja,5,1,5,1,10,15,5,20,70,60,10,10,15,10,10,5,1,10,10,10,0\nkim-sunyoung,10,1,5,1,5,10,5,15,40,30,15,15,15,10,10,5,1,15,10,10,0\nlee-sujeong,5,1,5,1,5,10,5,15,35,20,10,10,15,10,10,5,1,15,10,10,0\nyoon-mikyung,5,1,5,1,5,10,5,15,30,10,10,10,10,10,5,5,1,10,10,10,0\npark-chulho,25,1,10,1,5,15,15,15,25,10,10,10,10,10,5,5,1,10,10,10,0\nmin-seo,5,1,5,1,5,10,5,25,30,5,10,10,35,15,10,5,1,10,10,10,0\nchild1,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0\nchild2,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0",
+            "plain_text": "id,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos\njang-suin,5,1,5,1,5,5,5,10,40,1,10,10,10,10,5,5,1,10,10,10,0\nlee-dohyun,5,1,5,1,5,10,5,15,30,20,10,10,20,15,10,5,5,15,10,10,0\npark-jiyeon,5,1,5,1,5,10,5,20,65,50,10,10,20,10,20,5,1,15,15,15,0\nkim-sangwoo,10,1,10,1,10,10,5,15,25,5,45,20,10,10,5,5,25,15,10,10,0\njung-taesik,5,1,5,1,5,10,5,15,35,10,25,15,10,10,5,5,20,15,15,10,0\nchoi-youngja,5,1,5,1,10,15,5,20,70,60,10,10,15,10,10,5,1,10,10,10,0\nkim-sunyoung,10,1,5,1,5,10,5,15,40,30,15,15,15,10,10,5,1,15,10,10,0\nlee-sujeong,5,1,5,1,5,10,5,15,35,20,10,10,15,10,10,5,1,15,10,10,0\nyoon-mikyung,5,1,5,1,5,10,5,15,30,10,10,10,10,10,5,5,1,10,10,10,0\npark-chulho,25,1,10,1,5,15,15,15,25,10,10,10,10,10,5,5,1,10,10,10,0\nmin-seo,5,1,5,1,5,10,5,25,30,5,10,10,35,15,10,5,1,10,10,10,0\nchild1,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0\nchild2,5,1,5,1,5,5,5,10,25,5,5,5,5,5,5,5,1,5,5,5,0\nyoon-harin,15,20,20,20,30,30,20,50,40,25,20,20,65,45,30,20,20,25,25,20,00",
             "href": null
           }
         ],
@@ -7067,7 +7115,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:20:00.000Z",
-      "last_edited_time": "2025-10-14T12:47:00.000Z",
+      "last_edited_time": "2025-10-14T12:51:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -7076,7 +7124,7 @@
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
       },
-      "has_children": false,
+      "has_children": true,
       "archived": false,
       "in_trash": false,
       "type": "bulleted_list_item",
@@ -7085,7 +7133,7 @@
           {
             "type": "text",
             "text": {
-              "content": "의약품 : 안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(23일분)\n- 특수 의약품(19일분)\n- 의약 소모품 20일분",
+              "content": "의약품 : 안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(23일분)\n- 특수 의약품(19일분)\n- 의약 소모품 19일분",
               "link": null
             },
             "annotations": {
@@ -7096,13 +7144,63 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "의약품 : 안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(23일분)\n- 특수 의약품(19일분)\n- 의약 소모품 20일분",
+            "plain_text": "의약품 : 안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(23일분)\n- 특수 의약품(19일분)\n- 의약 소모품 19일분",
             "href": null
           }
         ],
         "color": "default"
       }
-    }
+    },
+    "children": [
+      {
+        "id": "28c044e9-65c9-8003-85ae-c47f613b5ae2",
+        "type": "paragraph",
+        "raw": {
+          "object": "block",
+          "id": "28c044e9-65c9-8003-85ae-c47f613b5ae2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-80bc-806f-c46820f05cea"
+          },
+          "created_time": "2025-10-14T12:51:00.000Z",
+          "last_edited_time": "2025-10-14T12:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "- 약초 +1 (소량)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "- 약초 +1 (소량)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      }
+    ]
   },
   {
     "id": "28c044e9-65c9-80ef-9b8b-ee3b4a23c632",
