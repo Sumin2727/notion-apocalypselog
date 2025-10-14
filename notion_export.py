@@ -97,7 +97,7 @@ if __name__ == "__main__":
             text = f"{'  '*depth}{bullet} {rich_text(b[t]['rich_text'])}"
         elif t == "to_do":
             check = "x" if b[t]["checked"] else " "
-            text = f"{'  '*depth}- [ {check} ] {rich_text(b[t]['rich_text'])}"
+            text = f"{'  '*depth}- [{check}] {rich_text(b[t]['rich_text'])}"
         elif t == "quote":
             text = f"> {rich_text(b[t]['rich_text'])}"
         elif t == "callout":
