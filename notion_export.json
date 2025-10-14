@@ -496,7 +496,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-03T12:02:00.000Z",
-      "last_edited_time": "2025-10-03T12:02:00.000Z",
+      "last_edited_time": "2025-10-14T02:45:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -544,7 +544,7 @@
             "block_id": "281044e9-65c9-8026-91bd-ef542e72fda4"
           },
           "created_time": "2025-10-03T12:02:00.000Z",
-          "last_edited_time": "2025-10-03T12:02:00.000Z",
+          "last_edited_time": "2025-10-14T02:45:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -622,6 +622,54 @@
                   "color": "default"
                 },
                 "plain_text": "“플레이어는 한 가지 행동을 할 수 있습니다” 정도의 흐릿한 안내만 허용.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      },
+      {
+        "id": "28c044e9-65c9-8032-9cd4-e76521bd9d40",
+        "type": "bulleted_list_item",
+        "raw": {
+          "object": "block",
+          "id": "28c044e9-65c9-8032-9cd4-e76521bd9d40",
+          "parent": {
+            "type": "block_id",
+            "block_id": "281044e9-65c9-8026-91bd-ef542e72fda4"
+          },
+          "created_time": "2025-10-14T02:45:00.000Z",
+          "last_edited_time": "2025-10-14T02:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "플레이어의 선택을 기다리지 않고 갑작스러운 상황 전개 허용.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "플레이어의 선택을 기다리지 않고 갑작스러운 상황 전개 허용.",
                 "href": null
               }
             ],
@@ -1716,7 +1764,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-03T12:02:00.000Z",
-      "last_edited_time": "2025-10-08T14:56:00.000Z",
+      "last_edited_time": "2025-10-14T02:42:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -2607,36 +2655,6 @@
                 "href": null
               }
             ],
-            "color": "default"
-          }
-        }
-      },
-      {
-        "id": "286044e9-65c9-8030-8423-d22d13af0fe6",
-        "type": "bulleted_list_item",
-        "raw": {
-          "object": "block",
-          "id": "286044e9-65c9-8030-8423-d22d13af0fe6",
-          "parent": {
-            "type": "block_id",
-            "block_id": "281044e9-65c9-8012-913e-d4248262ad4a"
-          },
-          "created_time": "2025-10-08T14:56:00.000Z",
-          "last_edited_time": "2025-10-08T14:56:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-          },
-          "has_children": false,
-          "archived": false,
-          "in_trash": false,
-          "type": "bulleted_list_item",
-          "bulleted_list_item": {
-            "rich_text": [],
             "color": "default"
           }
         }
@@ -5652,7 +5670,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-03T08:52:00.000Z",
+      "last_edited_time": "2025-10-14T02:52:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -5670,7 +5688,7 @@
           {
             "type": "text",
             "text": {
-              "content": "1. 인물 현황",
+              "content": "1. 인물 현황(성인 11명, 아이 2명, 중환자 2명)",
               "link": null
             },
             "annotations": {
@@ -5681,7 +5699,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "1. 인물 현황",
+            "plain_text": "1. 인물 현황(성인 11명, 아이 2명, 중환자 2명)",
             "href": null
           }
         ],
@@ -5952,7 +5970,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6009,7 +6027,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "여",
+                    "content": "여성",
                     "link": null
                   },
                   "annotations": {
@@ -6020,7 +6038,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "여",
+                  "plain_text": "여성",
                   "href": null
                 }
               ],
@@ -6172,7 +6190,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6229,7 +6247,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "남",
+                    "content": "남성",
                     "link": null
                   },
                   "annotations": {
@@ -6240,7 +6258,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "남",
+                  "plain_text": "남성",
                   "href": null
                 }
               ],
@@ -6392,7 +6410,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6449,7 +6467,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "남",
+                    "content": "남성",
                     "link": null
                   },
                   "annotations": {
@@ -6460,7 +6478,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "남",
+                  "plain_text": "남성",
                   "href": null
                 }
               ],
@@ -6612,7 +6630,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6669,7 +6687,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "남",
+                    "content": "남성",
                     "link": null
                   },
                   "annotations": {
@@ -6680,7 +6698,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "남",
+                  "plain_text": "남성",
                   "href": null
                 }
               ],
@@ -6832,7 +6850,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6889,7 +6907,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "여",
+                    "content": "여성",
                     "link": null
                   },
                   "annotations": {
@@ -6900,7 +6918,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "여",
+                  "plain_text": "여성",
                   "href": null
                 }
               ],
@@ -7052,7 +7070,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -7109,7 +7127,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "여",
+                    "content": "여성",
                     "link": null
                   },
                   "annotations": {
@@ -7120,7 +7138,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "여",
+                  "plain_text": "여성",
                   "href": null
                 }
               ],
@@ -7272,7 +7290,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -7329,7 +7347,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "남",
+                    "content": "남성",
                     "link": null
                   },
                   "annotations": {
@@ -7340,7 +7358,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "남",
+                  "plain_text": "남성",
                   "href": null
                 }
               ],
@@ -7492,7 +7510,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -7549,7 +7567,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "여",
+                    "content": "여성",
                     "link": null
                   },
                   "annotations": {
@@ -7560,7 +7578,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "여",
+                  "plain_text": "여성",
                   "href": null
                 }
               ],
@@ -7712,7 +7730,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -7769,7 +7787,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "여",
+                    "content": "여성",
                     "link": null
                   },
                   "annotations": {
@@ -7780,7 +7798,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "여",
+                  "plain_text": "여성",
                   "href": null
                 }
               ],
@@ -7932,7 +7950,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T12:26:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -7989,7 +8007,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "남",
+                    "content": "남성",
                     "link": null
                   },
                   "annotations": {
@@ -8000,7 +8018,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "남",
+                  "plain_text": "남성",
                   "href": null
                 }
               ],
@@ -8152,7 +8170,7 @@
             "block_id": "281044e9-65c9-809e-916f-cbe762ca7cea"
           },
           "created_time": "2025-10-03T12:26:00.000Z",
-          "last_edited_time": "2025-10-14T02:29:00.000Z",
+          "last_edited_time": "2025-10-14T02:57:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -8209,7 +8227,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "여",
+                    "content": "여성",
                     "link": null
                   },
                   "annotations": {
@@ -8220,7 +8238,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "여",
+                  "plain_text": "여성",
                   "href": null
                 }
               ],
@@ -8964,7 +8982,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-08T14:52:00.000Z",
+      "last_edited_time": "2025-10-14T02:40:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -9063,7 +9081,7 @@
             "block_id": "281044e9-65c9-80f3-ba1b-f62b3a8a67f7"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-03T11:54:00.000Z",
+          "last_edited_time": "2025-10-14T02:52:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -9101,7 +9119,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "약 14.5일분 (현재 배급기준)",
+                    "content": "약 14.42일분 (현재 배급기준)",
                     "link": null
                   },
                   "annotations": {
@@ -9112,7 +9130,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "약 14.5일분 (현재 배급기준)",
+                  "plain_text": "약 14.42일분 (현재 배급기준)",
                   "href": null
                 }
               ]
@@ -9267,7 +9285,7 @@
             "block_id": "281044e9-65c9-80f3-ba1b-f62b3a8a67f7"
           },
           "created_time": "2025-10-03T08:52:00.000Z",
-          "last_edited_time": "2025-10-03T08:52:00.000Z",
+          "last_edited_time": "2025-10-14T02:40:00.000Z",
           "created_by": {
             "object": "user",
             "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -9305,7 +9323,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "SUV 45L",
+                    "content": "45L",
                     "link": null
                   },
                   "annotations": {
@@ -9316,7 +9334,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "SUV 45L",
+                  "plain_text": "45L",
                   "href": null
                 }
               ]
@@ -9385,6 +9403,74 @@
                     "color": "default"
                   },
                   "plain_text": "안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(25일분)\n- 특수 의약품(15~20일분)\n- 의약 소모품 2~3주분",
+                  "href": null
+                }
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "id": "28c044e9-65c9-805f-bdf3-ec2b1c1eeaa6",
+        "type": "table_row",
+        "raw": {
+          "object": "block",
+          "id": "28c044e9-65c9-805f-bdf3-ec2b1c1eeaa6",
+          "parent": {
+            "type": "block_id",
+            "block_id": "281044e9-65c9-80f3-ba1b-f62b3a8a67f7"
+          },
+          "created_time": "2025-10-14T02:40:00.000Z",
+          "last_edited_time": "2025-10-14T02:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "차량",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "차량",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "소형 SUV",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "소형 SUV",
                   "href": null
                 }
               ]
