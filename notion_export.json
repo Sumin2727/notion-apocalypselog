@@ -6190,7 +6190,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:26:00.000Z",
-      "last_edited_time": "2025-10-14T06:28:00.000Z",
+      "last_edited_time": "2025-10-14T12:45:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6209,7 +6209,7 @@
           {
             "type": "text",
             "text": {
-              "content": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,60,60,50,\"성좌P=2\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,72,55,55,55,55,50,55,50,60,50,\"\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,68,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",55,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",50,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
+              "content": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,65,60,50,\"성좌P=3, POW 판정 실패 시 1회 보정 재굴림 가능(1일 1회)\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,89,55,55,55,55,50,55,50,60,50,\"전투 시 수인과 같은 전열일 때 첫 방어 판정 +15 보정\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,75,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",58,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",55,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
               "link": null
             },
             "annotations": {
@@ -6220,7 +6220,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,60,60,50,\"성좌P=2\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,72,55,55,55,55,50,55,50,60,50,\"\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,68,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",55,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",50,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
+            "plain_text": "id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes\njang-suin,장수인,F,29,회사원,리더/탐색,\"침착, 차분, 이성적\",\"약점 간파, 별의 시야\",\"장창, 가죽갑옷\",정상,,40,60,50,55,55,65,65,60,50,\"성좌P=3, POW 판정 실패 시 1회 보정 재굴림 가능(1일 1회)\"\n\nlee-dohyun,이도현,M,26,의대생/남성대표,의술·보호,\"성실, 책임감, 상냥함\",잠재,\"개조식 칼, 방패\",정상,89,55,55,55,55,50,55,50,60,50,\"전투 시 수인과 같은 전열일 때 첫 방어 판정 +15 보정\"\npark-jiyeon,박지연,F,27,간호사,의료·석궁,\"활발, 담대, 직설적, 장난스러움\",잠재,\"석궁\",정상,75,45,60,55,60,55,60,55,70,50,\"석궁 특화\"\nkim-sangwoo,김상우,M,34,목수,건축·수리,\"실용적, 유머러스, 장인기질\",제작 강화,\"철제 방망이, 방패\",\"경미한 부상, 회복중\",58,55,65,60,50,45,55,55,65,45,\"\"\njung-taesik,정태식,M,42,정비사,기계·발전기,\"신중, 분석적, 꼼꼼\",기계 이해,\"없음\",\"부상(다리)\",55,65,70,60,50,40,55,60,60,40,\"\"\n\nchoi-youngja,최영자,F,56,간호사,간호·지리지식,\"따뜻함, 신중함, 모성적\",잠재,\"없음\",정상,58,40,55,55,50,50,60,60,75,45,\"\"\nkim-sunyoung,김선영,M,32,레지던트,의학,\"전문적, 진지, 냉철\",잠재,\"없음\",정상,56,45,55,55,45,50,50,50,55,50,\"중환자실 담당\"\nlee-sujeong,이수정,F,30,간호사,설득·보조,\"다정함, 보호적, 긍정적\",잠재,\"없음\",정상,60,50,55,50,55,55,65,55,70,45,\"아이들 교육/돌봄 담당\"\nyoon-mikyung,윤미경,F,45,간병인,요리·가사,\"지혜로움, 사려 깊음, 배려심\",잠재,\"없음\",정상,68,45,55,55,50,55,55,50,60,50,\"허리 경미 통증(업무 가능)\"\npark-chulho,박철호,M,68,은퇴 회계사,행정/배급 실무,\"신중, 꼼꼼함, 현실적, 협조적\",잠재,\"없음\",\"노쇠\",62,65,60,60,45,40,50,50,55,40,\"거동 제한 약간(두통, 빈혈 가끔)\"\nmin-seo,민서,F,24,대학생(생물학),모름,\"의지적, 순응적, 용감\",잠재,\"없음\",\"회복중\",62,30,45,40,50,50,55,45,50,55,\"\"\nchild1,아이1,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"\nchild2,아이2,?,10대,아이,학습·사기,\"\",잠재,\"없음\",정상,65,30,45,40,45,45,50,40,45,50,\"식물재배 담당\"",
             "href": null
           }
         ],
@@ -6239,7 +6239,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T02:20:00.000Z",
-      "last_edited_time": "2025-10-14T05:51:00.000Z",
+      "last_edited_time": "2025-10-14T12:37:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6875,7 +6875,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:19:00.000Z",
-      "last_edited_time": "2025-10-14T06:20:00.000Z",
+      "last_edited_time": "2025-10-14T12:47:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6971,7 +6971,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:20:00.000Z",
-      "last_edited_time": "2025-10-14T06:20:00.000Z",
+      "last_edited_time": "2025-10-14T12:47:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -6989,7 +6989,7 @@
           {
             "type": "text",
             "text": {
-              "content": "연료(발전기) : 119.45L (7일치) - 축전지로 에너지 효율↑",
+              "content": "연료(발전기) : 113.35L (6일치) - 축전지로 에너지 효율↑",
               "link": null
             },
             "annotations": {
@@ -7000,7 +7000,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "연료(발전기) : 119.45L (7일치) - 축전지로 에너지 효율↑",
+            "plain_text": "연료(발전기) : 113.35L (6일치) - 축전지로 에너지 효율↑",
             "href": null
           }
         ],
@@ -7067,7 +7067,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:20:00.000Z",
-      "last_edited_time": "2025-10-14T06:20:00.000Z",
+      "last_edited_time": "2025-10-14T12:47:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -7085,7 +7085,7 @@
           {
             "type": "text",
             "text": {
-              "content": "의약품 : 안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(24일분)\n- 특수 의약품(19일분)\n- 의약 소모품 2~3주분",
+              "content": "의약품 : 안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(23일분)\n- 특수 의약품(19일분)\n- 의약 소모품 20일분",
               "link": null
             },
             "annotations": {
@@ -7096,7 +7096,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "의약품 : 안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(24일분)\n- 특수 의약품(19일분)\n- 의약 소모품 2~3주분",
+            "plain_text": "의약품 : 안정적 (소독제, 항생제, 진통제, 수액 일부)\n- 환자식 죽(30개)-중환자 의식회복 후 사용 예정\n- 중환자용 수액팩(23일분)\n- 특수 의약품(19일분)\n- 의약 소모품 20일분",
             "href": null
           }
         ],
@@ -7211,7 +7211,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-14T06:20:00.000Z",
-      "last_edited_time": "2025-10-14T06:20:00.000Z",
+      "last_edited_time": "2025-10-14T12:47:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -7229,7 +7229,7 @@
           {
             "type": "text",
             "text": {
-              "content": "성좌 포인트 : 2포인트",
+              "content": "성좌 포인트 : 3포인트",
               "link": null
             },
             "annotations": {
@@ -7240,7 +7240,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "성좌 포인트 : 2포인트",
+            "plain_text": "성좌 포인트 : 3포인트",
             "href": null
           }
         ],
@@ -7966,7 +7966,7 @@
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
       "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-03T08:52:00.000Z",
+      "last_edited_time": "2025-10-14T12:25:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -7984,7 +7984,7 @@
           {
             "type": "text",
             "text": {
-              "content": "3. 방비 현황",
+              "content": "3. 거점 현황",
               "link": null
             },
             "annotations": {
@@ -7995,7 +7995,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "3. 방비 현황",
+            "plain_text": "3. 거점 현황",
             "href": null
           }
         ],
@@ -8005,17 +8005,17 @@
     }
   },
   {
-    "id": "281044e9-65c9-80f2-a4b7-ea3fdbd27e26",
+    "id": "28c044e9-65c9-8014-99ba-dd3a12c5b86d",
     "type": "bulleted_list_item",
     "raw": {
       "object": "block",
-      "id": "281044e9-65c9-80f2-a4b7-ea3fdbd27e26",
+      "id": "28c044e9-65c9-8014-99ba-dd3a12c5b86d",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
-      "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-09T07:58:00.000Z",
+      "created_time": "2025-10-14T12:25:00.000Z",
+      "last_edited_time": "2025-10-14T12:26:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -8033,7 +8033,7 @@
           {
             "type": "text",
             "text": {
-              "content": "지하, 1~6층, 옥상까지 건물 안 모든 변종 제거",
+              "content": "거점 종류 : 6층짜리 종합병원(옥상, 1층짜리 지하주차장 있음)",
               "link": null
             },
             "annotations": {
@@ -8044,7 +8044,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "지하, 1~6층, 옥상까지 건물 안 모든 변종 제거",
+            "plain_text": "거점 종류 : 6층짜리 종합병원(옥상, 1층짜리 지하주차장 있음)",
             "href": null
           }
         ],
@@ -8053,17 +8053,17 @@
     }
   },
   {
-    "id": "281044e9-65c9-807b-b371-f2f0591d541b",
+    "id": "28c044e9-65c9-80de-aa5b-f7e3b1996d13",
     "type": "bulleted_list_item",
     "raw": {
       "object": "block",
-      "id": "281044e9-65c9-807b-b371-f2f0591d541b",
+      "id": "28c044e9-65c9-80de-aa5b-f7e3b1996d13",
       "parent": {
         "type": "page_id",
         "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
       },
-      "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-09T07:58:00.000Z",
+      "created_time": "2025-10-14T12:25:00.000Z",
+      "last_edited_time": "2025-10-14T12:25:00.000Z",
       "created_by": {
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
@@ -8072,7 +8072,7 @@
         "object": "user",
         "id": "99f263f5-a819-4126-9844-082bfd1707a1"
       },
-      "has_children": false,
+      "has_children": true,
       "archived": false,
       "in_trash": false,
       "type": "bulleted_list_item",
@@ -8081,7 +8081,7 @@
           {
             "type": "text",
             "text": {
-              "content": "옥상 환풍구·옥상문 봉쇄",
+              "content": "방비 상태",
               "link": null
             },
             "annotations": {
@@ -8092,205 +8092,303 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "옥상 환풍구·옥상문 봉쇄",
+            "plain_text": "방비 상태",
             "href": null
           }
         ],
         "color": "default"
       }
-    }
-  },
-  {
-    "id": "287044e9-65c9-804d-b44b-ddcd99fd3c9d",
-    "type": "bulleted_list_item",
-    "raw": {
-      "object": "block",
-      "id": "287044e9-65c9-804d-b44b-ddcd99fd3c9d",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
-      },
-      "created_time": "2025-10-09T07:58:00.000Z",
-      "last_edited_time": "2025-10-09T07:58:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "bulleted_list_item",
-      "bulleted_list_item": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "1층 정문, 응급실, 식당 등 유리문 방비, 불투명 처리, 비상문 봉쇄 등 방비 완료",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "1층 정문, 응급실, 식당 등 유리문 방비, 불투명 처리, 비상문 봉쇄 등 방비 완료",
-            "href": null
+    },
+    "children": [
+      {
+        "id": "281044e9-65c9-80f2-a4b7-ea3fdbd27e26",
+        "type": "bulleted_list_item",
+        "raw": {
+          "object": "block",
+          "id": "281044e9-65c9-80f2-a4b7-ea3fdbd27e26",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-80de-aa5b-f7e3b1996d13"
+          },
+          "created_time": "2025-10-03T08:52:00.000Z",
+          "last_edited_time": "2025-10-14T12:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "지하, 1~6층, 옥상까지 건물 안 모든 변종 제거",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "지하, 1~6층, 옥상까지 건물 안 모든 변종 제거",
+                "href": null
+              }
+            ],
+            "color": "default"
           }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "281044e9-65c9-8029-ab16-eb5860128438",
-    "type": "bulleted_list_item",
-    "raw": {
-      "object": "block",
-      "id": "281044e9-65c9-8029-ab16-eb5860128438",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+        }
       },
-      "created_time": "2025-10-03T08:52:00.000Z",
-      "last_edited_time": "2025-10-09T07:58:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "bulleted_list_item",
-      "bulleted_list_item": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "1층 밖 유인장치 제작 완료",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "1층 밖 유인장치 제작 완료",
-            "href": null
+      {
+        "id": "281044e9-65c9-807b-b371-f2f0591d541b",
+        "type": "bulleted_list_item",
+        "raw": {
+          "object": "block",
+          "id": "281044e9-65c9-807b-b371-f2f0591d541b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-80de-aa5b-f7e3b1996d13"
+          },
+          "created_time": "2025-10-03T08:52:00.000Z",
+          "last_edited_time": "2025-10-14T12:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "옥상 환풍구·옥상문 봉쇄",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "옥상 환풍구·옥상문 봉쇄",
+                "href": null
+              }
+            ],
+            "color": "default"
           }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "287044e9-65c9-803f-930b-fff6fc543c85",
-    "type": "bulleted_list_item",
-    "raw": {
-      "object": "block",
-      "id": "287044e9-65c9-803f-930b-fff6fc543c85",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+        }
       },
-      "created_time": "2025-10-09T07:59:00.000Z",
-      "last_edited_time": "2025-10-09T08:00:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "bulleted_list_item",
-      "bulleted_list_item": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "지하 환풍구 임시 보강",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "지하 환풍구 임시 보강",
-            "href": null
+      {
+        "id": "287044e9-65c9-804d-b44b-ddcd99fd3c9d",
+        "type": "bulleted_list_item",
+        "raw": {
+          "object": "block",
+          "id": "287044e9-65c9-804d-b44b-ddcd99fd3c9d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-80de-aa5b-f7e3b1996d13"
+          },
+          "created_time": "2025-10-09T07:58:00.000Z",
+          "last_edited_time": "2025-10-14T12:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "1층 정문, 응급실, 식당 등 유리문 방비, 불투명 처리, 비상문 봉쇄 등 방비 완료",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "1층 정문, 응급실, 식당 등 유리문 방비, 불투명 처리, 비상문 봉쇄 등 방비 완료",
+                "href": null
+              }
+            ],
+            "color": "default"
           }
-        ],
-        "color": "default"
-      }
-    }
-  },
-  {
-    "id": "287044e9-65c9-80cb-8425-e50fb1aee947",
-    "type": "bulleted_list_item",
-    "raw": {
-      "object": "block",
-      "id": "287044e9-65c9-80cb-8425-e50fb1aee947",
-      "parent": {
-        "type": "page_id",
-        "page_id": "281044e9-65c9-803e-b978-e11ff8be063b"
+        }
       },
-      "created_time": "2025-10-09T08:00:00.000Z",
-      "last_edited_time": "2025-10-09T08:00:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "99f263f5-a819-4126-9844-082bfd1707a1"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "bulleted_list_item",
-      "bulleted_list_item": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "지하주차장 막는 바리케이드 설치",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "지하주차장 막는 바리케이드 설치",
-            "href": null
+      {
+        "id": "281044e9-65c9-8029-ab16-eb5860128438",
+        "type": "bulleted_list_item",
+        "raw": {
+          "object": "block",
+          "id": "281044e9-65c9-8029-ab16-eb5860128438",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-80de-aa5b-f7e3b1996d13"
+          },
+          "created_time": "2025-10-03T08:52:00.000Z",
+          "last_edited_time": "2025-10-14T12:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "1층 밖 유인장치 제작 완료",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "1층 밖 유인장치 제작 완료",
+                "href": null
+              }
+            ],
+            "color": "default"
           }
-        ],
-        "color": "default"
+        }
+      },
+      {
+        "id": "287044e9-65c9-803f-930b-fff6fc543c85",
+        "type": "bulleted_list_item",
+        "raw": {
+          "object": "block",
+          "id": "287044e9-65c9-803f-930b-fff6fc543c85",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-80de-aa5b-f7e3b1996d13"
+          },
+          "created_time": "2025-10-09T07:59:00.000Z",
+          "last_edited_time": "2025-10-14T12:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "지하 환풍구 임시 보강",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "지하 환풍구 임시 보강",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      },
+      {
+        "id": "287044e9-65c9-80cb-8425-e50fb1aee947",
+        "type": "bulleted_list_item",
+        "raw": {
+          "object": "block",
+          "id": "287044e9-65c9-80cb-8425-e50fb1aee947",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28c044e9-65c9-80de-aa5b-f7e3b1996d13"
+          },
+          "created_time": "2025-10-09T08:00:00.000Z",
+          "last_edited_time": "2025-10-14T12:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "99f263f5-a819-4126-9844-082bfd1707a1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "지하주차장 막는 바리케이드 설치",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "지하주차장 막는 바리케이드 설치",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": "281044e9-65c9-803a-a3e5-c6a54189f580",
