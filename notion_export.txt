@@ -143,6 +143,10 @@ simulation_rules:
     - 61~85 → 잠재적 위협 요인 (불화, 자원 소모, 의심 등)
     - 86~100 → 치명적 위험 요소 (裏 성좌의 꼭두각시, 배신 위험 등)
 1. 캐릭터 시트 작성(다음과 같은 csv 형식으로 작성)
+  id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes
+id,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult
+id,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride
+id,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos
   - 이름, 나이, 성별, 외형
   - 직업 & 특기 (생활/전투/전문 지식 등)
   - 현재 몸 상태 (부상 여부 포함)
@@ -151,10 +155,6 @@ simulation_rules:
     - 전투형 (공격, 방어, 약점 간파, 기동력 등)
     - 비전투형 (치유, 회복, 제작, 설득, 기운 회복, 인식 차단 등)
     - 전투/비전투를 랜덤 혼합
-  id,name,gender,age,role,specialty,personality,star_power,equipment,health_status,affinity,STR,CON,SIZ,DEX,APP,INT,POW,EDU,LUCK,notes
-id,Charm,FastTalk,Persuade,Intimidate,Psychology,SpotHidden,Listen,LibraryUse,CreditRating,LanguageOwn,OtherLanguage,Occult
-id,Dodge,FightingBrawl,FirearmsHandgun,FirearmsRifle,Bow,Climb,Swim,Throw,Stealth,Survival,Jump,Ride
-id,Accounting,Anthropology,Appraise,Archaeology,ArtCraft,History,Law,NaturalWorld,FirstAid,Medicine,MechRepair,ElecRepair,ScienceBiology,ScienceChemistry,SciencePharmacy,Disguise,OperateMachinery,Navigate,Track,SleightHand,CthulhuMythos
 1. 성좌 능력 운용
   - 주인님께 즉시 알려주지 않고 상황이 무르익거나, 캐릭터가 필요성을 느낄 때 극적으로 발휘되도록 연출
   - 발휘된 성좌의 능력이 무엇인지 반드시 설명할 것
@@ -474,3 +474,43 @@ yoon-harin,15,20,20,20,30,30,20,50,40,25,20,20,65,45,30,20,20,25,25,20,00
 지하 기계실 수리 거의 완료
 옥상 보수 40% 완료
 [divider]
+🗓 Day 15
+계획:
+- 첫 성좌 시련 대비 (예상치 못한 발현에 대응 준비)
+- 동료들 사기 안정 유지, 결속 유지
+- 거점 안전 점검
+진행:
+- 아침
+  - 병원 거점에서 아침 식사 중, 하늘에 첫 성좌의 문양 발현.
+  - 붉은 별빛 기둥이 병원 복도에 투영되며, 시련 개시.
+  - 수인: "걱정마세요. 지금까지처럼 힘을 합치면 살아남습니다." → 리더십 판정 어려운 성공.
+  - 동료 사기 유지, 결속 강화.
+- 낮 (시련 본격화)
+  - 동료들의 불안이 그림자 환영으로 의인화되어 출현.
+  - 수인, 장창을 휘둘러 환영을 흩뜨리며 "실제가 아니다" 설득 → 근접 전투 판정 성공.
+  - 동료들 공포 극복, 결속 유지 성공.
+  - 최종 보스: 성좌의 수호자(환영 기사) 등장.
+  - 수인, 분석으로 코어 약점 간파 → INT 어려운 성공 + POW 보통 성공.
+  - 전술 지휘: 도현·상우 방패 전열, 수인·지연 후열 집중 공격 → 지휘 판정 어려운 성공.
+  - 성좌의 수호자 격파, 첫 성좌 시련 클리어.
+- 성과
+  - 장수인: POW +5 상승, 성좌포인트 +1 획득.
+  - 동료 사기치 +10, 호감도 전반 상승.
+  - 거점 안정도 +1.
+- 저녁~밤 (호감도 이벤트)
+  - 도현, 수인에게 "곁에 있어줘서 버틸 수 있었다" → 신뢰 고백.
+  - 수인: "저도 도현 씨가 옆에 있으면 든든합니다." → 호감도 82 → 88.
+  - 특전: 방어 시 +15, 수인의 POW 판정 1일 1회 재굴림 가능.
+- 밤 이벤트
+  - 밤 경계 중, 낯선 여성 생존자 등장.
+  - 이름: 윤하린(22세, 대학생, 생물학 전공, 약초 지식).
+  - 몸수색 결과: 단검 1, 약초 소량, 부상 및 탈수 상태.
+  - 수인의 결정: 받아들이고 격리 병실 배정.
+  - 정보: 산속 마을에 별빛 불빛 + 거대 괴물(리더 개체) 출현 목격.
+  - 호감도: 40 → 53.
+성과:
+- 첫 성좌 시련 클리어 → 성좌포인트 +1, 수인의 POW 강화.
+- 도현 호감도 이벤트 발생 → 신뢰·전투 특전 획득.
+- 새 인물 합류 (윤하린) → 내일(16일차)부터 활동 가능.
+- 거점 안정, 사기치 상승.
+- 산 마을에서의 거대 괴물 위협 정보 확보.
